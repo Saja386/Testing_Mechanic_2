@@ -1,0 +1,1769 @@
+MODULE Linux x86_64 9F2240F10333D2D100000000000000000 libUnrealEditor-Aura.so
+INFO CODE_ID F140229F3303D1D2
+FILE 0 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/AudioMixerCore/Public/AudioMixerTypes.h
+FILE 1 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Core/Public/Compression/CompressedBuffer.h
+FILE 2 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Core/Public/Math/IntPoint.h
+FILE 3 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Core/Public/Memory/CompositeBuffer.h
+FILE 4 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Core/Public/Modules/ModuleInterface.h
+FILE 5 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Core/Public/Modules/ModuleManager.h
+FILE 6 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Core/Public/Templates/SharedPointerInternals.h
+FILE 7 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/CoreUObject/Public/Serialization/DerivedData.h
+FILE 8 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/CoreUObject/Public/UObject/Class.h
+FILE 9 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/CoreUObject/Public/UObject/Object.h
+FILE 10 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/CoreUObject/Public/UObject/UObjectBase.h
+FILE 11 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/CoreUObject/Public/UObject/UObjectBaseUtility.h
+FILE 12 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Engine/Classes/AI/Navigation/NavAgentInterface.h
+FILE 13 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h
+FILE 14 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h
+FILE 15 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Engine/Classes/GameFramework/Controller.h
+FILE 16 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Engine/Classes/GameFramework/Pawn.h
+FILE 17 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h
+FILE 18 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Engine/Public/Subsystems/SubsystemCollection.h
+FILE 19 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Experimental/Chaos/Public/ChaosVisualDebugger/ChaosVDMemWriterReader.h
+FILE 20 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/Experimental/Chaos/Public/ChaosVisualDebugger/ChaosVDSerializedNameTable.h
+FILE 21 /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/Runtime/SlateCore/Public/Styling/CoreStyle.h
+FILE 22 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/UnrealEditor/Inc/Aura/UHT/Aura.init.gen.cpp
+FILE 23 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/UnrealEditor/Inc/Aura/UHT/SageBaseCharacter.gen.cpp
+FILE 24 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/UnrealEditor/Inc/Aura/UHT/SagePlayerCharacter.gen.cpp
+FILE 25 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/UnrealEditor/Inc/Aura/UHT/SagePlayerController.gen.cpp
+FILE 26 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Aura.cpp
+FILE 27 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/Characters/SageBaseCharacter.cpp
+FILE 28 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/Characters/SagePlayerCharacter.cpp
+FILE 29 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/Controllers/SagePlayerController.cpp
+FILE 30 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/Characters/SageBaseCharacter.h
+FILE 31 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/Characters/SagePlayerCharacter.h
+FILE 32 /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/Controllers/SagePlayerController.h
+FUNC 1d1f0 1 0 EmptyLinkFunctionForGeneratedCodeAura_init()
+1d1f0 1 9 22
+FUNC 1d200 2b 0 Z_Construct_UPackage__Script_Aura()
+1d200 1 12 22
+1d201 7 13 22
+1d208 3 13 22
+1d20b 2 13 22
+1d20d 2 26 22
+1d20f 13 24 22
+1d222 7 26 22
+1d229 2 26 22
+FUNC 1d230 5a 0 __cxx_global_var_init.4
+1d230 c 0 22
+1d23c 2 49 0
+1d23e 10 0 22
+1d24e 18 49 0
+1d266 24 0 22
+FUNC 1d290 5a 0 __cxx_global_var_init.5
+1d290 c 0 22
+1d29c 2 48 0
+1d29e 10 0 22
+1d2ae 18 48 0
+1d2c6 24 0 22
+FUNC 1d2f0 5a 0 __cxx_global_var_init.7
+1d2f0 c 0 22
+1d2fc 2 55 0
+1d2fe 10 0 22
+1d30e 18 55 0
+1d326 24 0 22
+FUNC 1d350 5a 0 __cxx_global_var_init.9
+1d350 c 0 22
+1d35c 2 54 0
+1d35e 10 0 22
+1d36e 18 54 0
+1d386 24 0 22
+FUNC 1d3b0 5a 0 __cxx_global_var_init.11
+1d3b0 c 0 22
+1d3bc 2 53 0
+1d3be 10 0 22
+1d3ce 18 53 0
+1d3e6 24 0 22
+FUNC 1d410 5a 0 __cxx_global_var_init.13
+1d410 c 0 22
+1d41c 2 52 0
+1d41e 10 0 22
+1d42e 18 52 0
+1d446 24 0 22
+FUNC 1d470 5a 0 __cxx_global_var_init.15
+1d470 c 0 22
+1d47c 2 56 0
+1d47e 10 0 22
+1d48e 18 56 0
+1d4a6 24 0 22
+FUNC 1d4d0 3b 0 __cxx_global_var_init.17
+1d4d0 c 0 22
+1d4dc 2 85 21
+1d4de 10 0 22
+1d4ee 10 85 21
+1d4fe d 0 22
+FUNC 1d510 3b 0 __cxx_global_var_init.18
+1d510 c 0 22
+1d51c 2 86 21
+1d51e 10 0 22
+1d52e 10 86 21
+1d53e d 0 22
+FUNC 1d550 3b 0 __cxx_global_var_init.19
+1d550 c 0 22
+1d55c 2 87 21
+1d55e 10 0 22
+1d56e 10 87 21
+1d57e d 0 22
+FUNC 1d590 3b 0 __cxx_global_var_init.20
+1d590 c 0 22
+1d59c 2 88 21
+1d59e 10 0 22
+1d5ae 10 88 21
+1d5be d 0 22
+FUNC 1d5d0 3b 0 __cxx_global_var_init.21
+1d5d0 c 0 22
+1d5dc 2 89 21
+1d5de 10 0 22
+1d5ee 10 89 21
+1d5fe d 0 22
+FUNC 1d610 3b 0 __cxx_global_var_init.22
+1d610 c 0 22
+1d61c 2 90 21
+1d61e 10 0 22
+1d62e 10 90 21
+1d63e d 0 22
+FUNC 1d650 3b 0 __cxx_global_var_init.23
+1d650 c 0 22
+1d65c 2 91 21
+1d65e 10 0 22
+1d66e 10 91 21
+1d67e d 0 22
+FUNC 1d690 3b 0 __cxx_global_var_init.24
+1d690 c 0 22
+1d69c 2 92 21
+1d69e 10 0 22
+1d6ae 10 92 21
+1d6be d 0 22
+FUNC 1d6d0 3b 0 __cxx_global_var_init.25
+1d6d0 c 0 22
+1d6dc 2 93 21
+1d6de 10 0 22
+1d6ee 10 93 21
+1d6fe d 0 22
+FUNC 1d710 3b 0 __cxx_global_var_init.26
+1d710 c 0 22
+1d71c 2 94 21
+1d71e 10 0 22
+1d72e 10 94 21
+1d73e d 0 22
+FUNC 1d750 3b 0 __cxx_global_var_init.27
+1d750 c 0 22
+1d75c 2 95 21
+1d75e 10 0 22
+1d76e 10 95 21
+1d77e d 0 22
+FUNC 1d790 3b 0 __cxx_global_var_init.28
+1d790 c 0 22
+1d79c 2 96 21
+1d79e 10 0 22
+1d7ae 10 96 21
+1d7be d 0 22
+FUNC 1d7d0 3b 0 __cxx_global_var_init.29
+1d7d0 c 0 22
+1d7dc 2 97 21
+1d7de 10 0 22
+1d7ee 10 97 21
+1d7fe d 0 22
+FUNC 1d810 3b 0 __cxx_global_var_init.30
+1d810 c 0 22
+1d81c 2 98 21
+1d81e 10 0 22
+1d82e 10 98 21
+1d83e d 0 22
+FUNC 1d850 3b 0 __cxx_global_var_init.31
+1d850 c 0 22
+1d85c 2 99 21
+1d85e 10 0 22
+1d86e 10 99 21
+1d87e d 0 22
+FUNC 1d890 3b 0 __cxx_global_var_init.32
+1d890 c 0 22
+1d89c 2 100 21
+1d89e 10 0 22
+1d8ae 10 100 21
+1d8be d 0 22
+FUNC 1d8d0 3b 0 __cxx_global_var_init.33
+1d8d0 c 0 22
+1d8dc 2 101 21
+1d8de 10 0 22
+1d8ee 10 101 21
+1d8fe d 0 22
+FUNC 1d910 3b 0 __cxx_global_var_init.34
+1d910 c 0 22
+1d91c 2 102 21
+1d91e 10 0 22
+1d92e 10 102 21
+1d93e d 0 22
+FUNC 1d950 3b 0 __cxx_global_var_init.35
+1d950 c 0 22
+1d95c 2 103 21
+1d95e 10 0 22
+1d96e 10 103 21
+1d97e d 0 22
+FUNC 1d990 3b 0 __cxx_global_var_init.36
+1d990 c 0 22
+1d99c 2 104 21
+1d99e 10 0 22
+1d9ae 10 104 21
+1d9be d 0 22
+FUNC 1d9d0 3b 0 __cxx_global_var_init.37
+1d9d0 c 0 22
+1d9dc 2 105 21
+1d9de 10 0 22
+1d9ee 10 105 21
+1d9fe d 0 22
+FUNC 1da10 39 0 __cxx_global_var_init.38
+1da10 c 0 22
+1da1c 2 108 21
+1da1e 10 0 22
+1da2e e 108 21
+1da3c d 0 22
+FUNC 1da50 39 0 __cxx_global_var_init.39
+1da50 c 0 22
+1da5c 2 110 21
+1da5e 10 0 22
+1da6e e 110 21
+1da7c d 0 22
+FUNC 1da90 39 0 __cxx_global_var_init.40
+1da90 c 0 22
+1da9c 2 112 21
+1da9e 10 0 22
+1daae e 112 21
+1dabc d 0 22
+FUNC 1dad0 39 0 __cxx_global_var_init.41
+1dad0 c 0 22
+1dadc 2 113 21
+1dade 10 0 22
+1daee e 113 21
+1dafc d 0 22
+FUNC 1db10 39 0 __cxx_global_var_init.42
+1db10 c 0 22
+1db1c 2 114 21
+1db1e 10 0 22
+1db2e e 114 21
+1db3c d 0 22
+FUNC 1db50 39 0 __cxx_global_var_init.43
+1db50 c 0 22
+1db5c 2 115 21
+1db5e 10 0 22
+1db6e e 115 21
+1db7c d 0 22
+FUNC 1db90 5a 0 __cxx_global_var_init.44
+1db90 c 0 22
+1db9c 2 59 0
+1db9e 10 0 22
+1dbae 18 59 0
+1dbc6 24 0 22
+FUNC 1dbf0 1d 0 __cxx_global_var_init.48
+1dbf0 9 0 22
+1dbf9 1 488 2
+1dbfa 7 0 22
+1dc01 b 488 2
+1dc0c 1 488 2
+FUNC 1dc10 43 0 __cxx_global_var_init.49
+1dc10 c 0 22
+1dc1c 2 19 19
+1dc1e 10 0 22
+1dc2e e 19 19
+1dc3c a 19 19
+1dc46 d 0 22
+FUNC 1dc60 46 0 __cxx_global_var_init.51
+1dc60 f 0 22
+1dc6f 2 20 20
+1dc71 10 0 22
+1dc81 11 20 20
+1dc92 7 20 20
+1dc99 d 0 22
+FUNC 1dcb0 61 0 __cxx_global_var_init.56
+1dcb0 c 0 22
+1dcbc 2 145 3
+1dcbe 10 0 22
+1dcce 12 145 3
+1dce0 a 145 3
+1dcea 7 145 3
+1dcf1 20 0 22
+FUNC 1dd20 cc 0 FCompositeBuffer::~FCompositeBuffer()
+1dd20 b 26 3
+1dd2b 4 26 3
+1dd2f 7 26 3
+1dd36 6 26 3
+1dd3c 3 26 3
+1dd3f 7 26 3
+1dd46 1a 26 3
+1dd60 6 26 3
+1dd66 2 26 3
+1dd68 4 26 3
+1dd6c 3 26 3
+1dd6f 2 26 3
+1dd71 d 26 3
+1dd7e 8 26 3
+1dd86 2 26 3
+1dd88 9 26 3
+1dd91 8 26 3
+1dd99 d 26 3
+1dda6 9 26 3
+1ddaf 2 26 3
+1ddb1 9 26 3
+1ddba 2 26 3
+1ddbc 7 26 3
+1ddc3 2 26 3
+1ddc5 8 26 3
+1ddcd f 26 3
+1dddc 8 26 3
+1dde4 8 26 3
+FUNC 1de00 61 0 __cxx_global_var_init.57
+1de00 c 0 22
+1de0c 2 174 1
+1de0e 10 0 22
+1de1e 12 174 1
+1de30 a 174 1
+1de3a 7 174 1
+1de41 20 0 22
+FUNC 1de70 cc 0 FCompressedBuffer::~FCompressedBuffer()
+1de70 b 49 1
+1de7b 4 49 1
+1de7f 7 49 1
+1de86 6 49 1
+1de8c 3 49 1
+1de8f 7 49 1
+1de96 1a 49 1
+1deb0 6 49 1
+1deb6 2 49 1
+1deb8 4 49 1
+1debc 3 49 1
+1debf 2 49 1
+1dec1 d 49 1
+1dece 8 49 1
+1ded6 2 49 1
+1ded8 9 49 1
+1dee1 8 49 1
+1dee9 d 49 1
+1def6 9 49 1
+1deff 2 49 1
+1df01 9 49 1
+1df0a 2 49 1
+1df0c 7 49 1
+1df13 2 49 1
+1df15 8 49 1
+1df1d f 49 1
+1df2c 8 49 1
+1df34 8 49 1
+FUNC 1df40 45 0 __cxx_global_var_init.70
+1df40 45 0 22
+FUNC 1df90 1a 0 UE::FDerivedData::~FDerivedData()
+1df90 1 81 7
+1df91 6 81 7
+1df97 2 81 7
+1df99 4 81 7
+1df9d 3 81 7
+1dfa0 2 81 7
+1dfa2 8 81 7
+FUNC 1dfb0 1b3 0 <name omitted>
+1dfb0 1 0 22
+1dfb1 7 0 22
+1dfb8 3 0 22
+1dfbb 2 0 22
+1dfbd 7 0 22
+1dfc4 3 0 22
+1dfc7 6 0 22
+1dfcd 7 0 22
+1dfd4 3 0 22
+1dfd7 6 0 22
+1dfdd 7 0 22
+1dfe4 3 0 22
+1dfe7 6 0 22
+1dfed 18 0 22
+1e005 a 0 22
+1e00f 4 0 22
+1e013 15 0 22
+1e028 3 0 22
+1e02b 5 0 22
+1e030 2 0 22
+1e032 3f 0 22
+1e071 7 0 22
+1e078 3 0 22
+1e07b 6 0 22
+1e081 3f 0 22
+1e0c0 7 0 22
+1e0c7 3 0 22
+1e0ca 6 0 22
+1e0d0 3f 0 22
+1e10f 7 0 22
+1e116 3 0 22
+1e119 6 0 22
+1e11f 44 0 22
+FUNC 1e170 1 0 EmptyLinkFunctionForGeneratedCodeSageBaseCharacter()
+1e170 1 10 23
+FUNC 1e180 1 0 ASageBaseCharacter::StaticRegisterNativesASageBaseCharacter()
+1e180 1 23 23
+FUNC 1e190 c1 0 ASageBaseCharacter::GetPrivateStaticClass()
+1e190 9 24 23
+1e199 a 24 23
+1e1a3 6 24 23
+1e1a9 b 24 23
+1e1b4 c 24 23
+1e1c0 c 24 23
+1e1cc c 24 23
+1e1d8 68 24 23
+1e240 7 24 23
+1e247 a 24 23
+FUNC 1e260 c1 0 Z_Construct_UClass_ASageBaseCharacter_NoRegister()
+1e260 9 27 23
+1e269 a 27 23
+1e273 6 27 23
+1e279 b 27 23
+1e284 c 27 23
+1e290 c 27 23
+1e29c c 27 23
+1e2a8 68 27 23
+1e310 7 27 23
+1e317 a 27 23
+FUNC 1e330 2b 0 Z_Construct_UClass_ASageBaseCharacter()
+1e330 1 84 23
+1e331 7 85 23
+1e338 3 85 23
+1e33b 2 85 23
+1e33d 2 89 23
+1e33f 13 87 23
+1e352 7 89 23
+1e359 2 89 23
+FUNC 1e360 c1 0 UClass* StaticClass<ASageBaseCharacter>()
+1e360 9 93 23
+1e369 a 93 23
+1e373 6 93 23
+1e379 b 93 23
+1e384 c 93 23
+1e390 c 93 23
+1e39c c 93 23
+1e3a8 68 93 23
+1e410 7 93 23
+1e417 a 93 23
+FUNC 1e430 3a 0 ASageBaseCharacter::ASageBaseCharacter(FVTableHelper&)
+1e430 4 95 23
+1e434 20 95 23
+1e454 14 95 23
+1e468 2 95 23
+FUNC 1e470 5 0 ASageBaseCharacter::~ASageBaseCharacter()
+1e470 5 96 23
+FUNC 1e480 c 0 non-virtual thunk to ASageBaseCharacter::~ASageBaseCharacter()
+1e480 c 0 23
+FUNC 1e490 12 0 ASageBaseCharacter::~ASageBaseCharacter()
+1e490 4 96 23
+1e494 5 96 23
+1e499 3 96 23
+1e49c 6 96 23
+FUNC 1e4b0 1c 0 non-virtual thunk to ASageBaseCharacter::~ASageBaseCharacter()
+1e4b0 b 0 23
+1e4bb 8 0 23
+1e4c3 3 0 23
+1e4c6 6 0 23
+FUNC 1e4d0 8 0 void InternalConstructor<ASageBaseCharacter>(FObjectInitializer const&)
+1e4d0 3 3559 8
+1e4d3 5 3559 8
+FUNC 1e4e0 112 0 UObject* InternalVTableHelperCtorCaller<ASageBaseCharacter>(FVTableHelper&)
+1e4e0 10 3568 8
+1e4f0 8 3569 8
+1e4f8 a 3569 8
+1e502 6 3569 8
+1e508 b 3569 8
+1e513 c 3569 8
+1e51f c 3569 8
+1e52b c 3569 8
+1e537 69 3569 8
+1e5a0 7 3569 8
+1e5a7 2f 3569 8
+1e5d6 b 3569 8
+1e5e1 3 3569 8
+1e5e4 e 3569 8
+FUNC 1e600 5 0 ACharacter::StaticClass()
+1e600 5 242 14
+FUNC 1e610 5 0 UObject::StaticClass()
+1e610 5 90 9
+FUNC 1e620 c1 0 ASageBaseCharacter::StaticClass()
+1e620 9 12 30
+1e629 a 12 30
+1e633 6 12 30
+1e639 b 12 30
+1e644 c 12 30
+1e650 c 12 30
+1e65c c 12 30
+1e668 68 12 30
+1e6d0 7 12 30
+1e6d7 a 12 30
+FUNC 1e6f0 1 0 UObjectBase::RegisterDependencies()
+1e6f0 1 103 10
+FUNC 1e700 3 0 UObjectBaseUtility::CanBeClusterRoot() const
+1e700 3 380 11
+FUNC 1e710 1 0 UObjectBaseUtility::OnClusterMarkedAsPendingKill()
+1e710 1 398 11
+FUNC 1e720 15 0 UObject::GetDetailedInfoInternal() const
+1e720 4 212 9
+1e724 c 212 9
+1e730 3 212 9
+1e733 2 212 9
+FUNC 1e740 1 0 UObject::PostCDOContruct()
+1e740 1 233 9
+FUNC 1e750 1 0 UObject::PostCDOCompiled(FObjectPostCDOCompiledContext const&)
+1e750 1 245 9
+FUNC 1e760 1 0 UObject::PostCDOCompiled()
+1e760 1 254 9
+FUNC 1e770 1 0 UObject::LoadedFromAnotherClass(FName const&)
+1e770 1 317 9
+FUNC 1e780 3 0 UObject::ResolveSubobject(char16_t const*, UObject*&, bool)
+1e780 3 332 9
+FUNC 1e790 3 0 UObject::IsReadyForAsyncPostLoad() const
+1e790 3 337 9
+FUNC 1e7a0 1 0 UObject::PostLinkerChange()
+1e7a0 1 371 9
+FUNC 1e7b0 1 0 UObject::ShutdownAfterError()
+1e7b0 1 412 9
+FUNC 1e7c0 1 0 UObject::PostInterpChange(FProperty*)
+1e7c0 1 415 9
+FUNC 1e7d0 1 0 UObject::PreDuplicate(FObjectDuplicationParameters&)
+1e7d0 1 524 9
+FUNC 1e7e0 1 0 UObject::PostDuplicate(bool)
+1e7e0 1 530 9
+FUNC 1e7f0 16 0 UObject::PostDuplicate(EDuplicateMode::Type)
+1e7f0 8 533 9
+1e7f8 e 533 9
+FUNC 1e810 3 0 UObject::NeedsLoadForEditorGame() const
+1e810 3 568 9
+FUNC 1e820 3 0 UObject::HasNonEditorOnlyReferences() const
+1e820 3 589 9
+FUNC 1e830 3 0 UObject::IsPostLoadThreadSafe() const
+1e830 3 599 9
+FUNC 1e840 1 0 UObject::GetPrestreamPackages(TArray<UObject*, TSizedDefaultAllocator<32> >&)
+1e840 1 623 9
+FUNC 1e850 1 0 UObject::ExportCustomProperties(FOutputDevice&, unsigned int)
+1e850 1 650 9
+FUNC 1e860 1 0 UObject::ImportCustomProperties(char16_t const*, FFeedbackContext*)
+1e860 1 661 9
+FUNC 1e870 1 0 UObject::PostReloadConfig(FProperty*)
+1e870 1 673 9
+FUNC 1e880 15 0 UObject::GetDesc()
+1e880 4 686 9
+1e884 c 686 9
+1e890 3 686 9
+1e893 2 686 9
+FUNC 1e8a0 1 0 UObject::MoveDataToSparseClassDataStruct() const
+1e8a0 1 692 9
+FUNC 1e8b0 3 0 UObject::ConformSparseClassDataStruct(UScriptStruct*, void*) const
+1e8b0 3 693 9
+FUNC 1e8c0 3 0 UObject::GetNativePropertyValues(TMap<FString, FString, FDefaultSetAllocator, TDefaultMapHashableKeyFuncs<FString, FString, false> >&, unsigned int) const
+1e8c0 3 727 9
+FUNC 1e8d0 28 0 UObject::GetExporterName()
+1e8d0 4 757 9
+1e8d4 16 758 9
+1e8ea 9 758 9
+1e8f3 5 758 9
+FUNC 1e900 3 0 UObject::GetRestoreForUObjectOverwrite()
+1e900 3 792 9
+FUNC 1e910 3 0 UObject::AreNativePropertiesIdenticalTo(UObject*) const
+1e910 3 804 9
+FUNC 1e920 1 0 UObject::PostRepNotifies()
+1e920 1 1025 9
+FUNC 1e930 1 0 UObject::BeginCacheForCookedPlatformData(ITargetPlatform const*)
+1e930 1 1148 9
+FUNC 1e940 3 0 UObject::IsCachedCookedPlatformDataLoaded(ITargetPlatform const*)
+1e940 3 1155 9
+FUNC 1e950 1 0 UObject::WillNeverCacheCookedPlatformDataAgain()
+1e950 1 1160 9
+FUNC 1e960 1 0 UObject::ClearCachedCookedPlatformData(ITargetPlatform const*)
+1e960 1 1167 9
+FUNC 1e970 1 0 UObject::ClearAllCachedCookedPlatformData()
+1e970 1 1174 9
+FUNC 1e980 1 0 UObject::CookAdditionalFilesOverride(char16_t const*, ITargetPlatform const*, TFunctionRef<void (char16_t const*, void*, long long)>)
+1e980 1 1204 9
+FUNC 1e990 3 0 UObject::GetConfigOverridePlatform() const
+1e990 3 1318 9
+FUNC 1e9a0 1 0 UObject::OverrideConfigSection(FString&)
+1e9a0 1 1325 9
+FUNC 1e9b0 1 0 UObject::OverridePerObjectConfigSection(FString&)
+1e9b0 1 1332 9
+FUNC 1e9c0 8 0 UObject::ProcessConsoleExec(char16_t const*, FOutputDevice&, UObject*)
+1e9c0 8 1462 9
+FUNC 1e9d0 3 0 UObject::RegenerateClass(UClass*, UObject*)
+1e9d0 3 1476 9
+FUNC 1e9e0 1 0 UObject::MarkAsEditorOnlySubobject()
+1e9e0 1 1489 9
+FUNC 1e9f0 5 0 AActor::SetNetPushIdDynamic(unsigned long long)
+1e9f0 5 197 13
+FUNC 1ea00 5 0 AActor::GetNetPushIdDynamic() const
+1ea00 4 197 13
+1ea04 1 197 13
+FUNC 1ea10 a 0 AActor::IsInEditingLevelInstance() const
+1ea10 9 322 13
+1ea19 1 322 13
+FUNC 1ea20 3 0 AActor::ShouldLevelKeepRefIfExternal() const
+1ea20 3 1008 13
+FUNC 1ea30 e 0 AActor::GetRuntimeGrid() const
+1ea30 d 1019 13
+1ea3d 1 1019 13
+FUNC 1ea40 d 0 AActor::IsLockLocation() const
+1ea40 c 1037 13
+1ea4c 1 1037 13
+FUNC 1ea50 3 0 AActor::IsDataLayerTypeSupported(TSubclassOf<UDataLayerInstance>) const
+1ea50 3 1316 13
+FUNC 1ea60 3 0 AActor::ActorTypeIsMainWorldOnly() const
+1ea60 3 1318 13
+FUNC 1ea70 3 0 AActor::ActorTypeSupportsDataLayer() const
+1ea70 3 1338 13
+FUNC 1ea80 3 0 AActor::ActorTypeSupportsExternalDataLayer() const
+1ea80 3 1339 13
+FUNC 1ea90 3 0 AActor::IsRuntimeOnly() const
+1ea90 3 2207 13
+FUNC 1eaa0 1 0 AActor::PopulatePIEDuplicationSeed(AActor::FDuplicationSeedInterface&)
+1eaa0 1 2256 13
+FUNC 1eab0 3 0 AActor::IsDefaultPreviewEnabled() const
+1eab0 3 2261 13
+FUNC 1eac0 3 0 AActor::IsUserManaged() const
+1eac0 3 2265 13
+FUNC 1ead0 3 0 AActor::CanEditChangeComponent(UActorComponent const*, FProperty const*) const
+1ead0 3 2290 13
+FUNC 1eae0 5c 0 AActor::GetDefaultAttachComponent() const
+1eae0 9 2317 13
+1eae9 7 2317 13
+1eaf0 5 2317 13
+1eaf5 6 2317 13
+1eafb b 2317 13
+1eb06 d 2317 13
+1eb13 7 2317 13
+1eb1a 9 2317 13
+1eb23 2 2317 13
+1eb25 2 2317 13
+1eb27 8 2317 13
+1eb2f 3 2317 13
+1eb32 a 2317 13
+FUNC 1eb40 a 0 AActor::IsLevelBoundsRelevant() const
+1eb40 9 2392 13
+1eb49 1 2392 13
+FUNC 1eb50 3 0 AActor::ShouldExport()
+1eb50 3 2520 13
+FUNC 1eb60 38 0 AActor::ShouldImport(FString*, bool)
+1eb60 5 2524 13
+1eb65 5 2524 13
+1eb6a 6 2524 13
+1eb70 3 2524 13
+1eb73 12 2524 13
+1eb85 13 2524 13
+FUNC 1eba0 3 0 AActor::ShouldImport(TStringView<char16_t>, bool)
+1eba0 3 2527 13
+FUNC 1ebb0 1 0 AActor::EditorKeyPressed(FKey, EInputEvent)
+1ebb0 1 2531 13
+FUNC 1ebc0 3 0 AActor::OpenAssetEditor()
+1ebc0 3 2619 13
+FUNC 1ebd0 5 0 AActor::GetCustomIconName() const
+1ebd0 5 2625 13
+FUNC 1ebe0 1 0 AActor::OnActorChannelOpen(FInBunch&, UNetConnection*)
+1ebe0 1 2672 13
+FUNC 1ebf0 3 0 AActor::UseShortConnectTimeout() const
+1ebf0 3 2679 13
+FUNC 1ec00 1 0 AActor::OnSerializeNewActor(FOutBunch&)
+1ec00 1 2685 13
+FUNC 1ec10 1 0 AActor::OnNetCleanup(UNetConnection*)
+1ec10 1 2691 13
+FUNC 1ec20 5 0 AActor::AsyncPhysicsTickActor(float, float)
+1ec20 5 2745 13
+FUNC 1ec30 3 0 AActor::SupportsSubRootSelection() const
+1ec30 3 3015 13
+FUNC 1ec40 11 0 AActor::MarkComponentsAsPendingKill()
+1ec40 11 3104 13
+FUNC 1ec60 1 0 AActor::OnConstruction(UE::Math::TTransform<double> const&)
+1ec60 1 3264 13
+FUNC 1ec70 3 0 AActor::IsComponentRelevantForNavigation(UActorComponent*) const
+1ec70 3 4153 13
+FUNC 1ec80 4 0 APawn::_getUObject() const
+1ec80 3 44 16
+1ec83 1 44 16
+FUNC 1ec90 5c 0 ACharacter::GetMovementBase() const
+1ec90 9 657 14
+1ec99 7 657 14
+1eca0 5 657 14
+1eca5 6 657 14
+1ecab b 657 14
+1ecb6 d 657 14
+1ecc3 7 657 14
+1ecca 9 657 14
+1ecd3 2 657 14
+1ecd5 2 657 14
+1ecd7 8 657 14
+1ecdf 3 657 14
+1ece2 a 657 14
+FUNC 1ecf0 1 0 APawn::OnPlayerStateChanged(APlayerState*, APlayerState*)
+1ecf0 1 180 16
+FUNC 1ed00 19 0 ACharacter::GetBaseRotationOffset() const
+1ed00 3 505 14
+1ed03 15 505 14
+1ed18 1 505 14
+FUNC 1ed20 1 0 ACharacter::Falling()
+1ed20 1 764 14
+FUNC 1ed30 1 0 ACharacter::MoveBlockedBy(FHitResult const&)
+1ed30 1 823 14
+FUNC 1ed40 8 0 non-virtual thunk to APawn::_getUObject() const
+1ed40 8 0 16
+FUNC 1ed50 19 0 INavAgentInterface::GetMoveGoalOffset(AActor const*) const
+1ed50 3 40 12
+1ed53 15 40 12
+1ed68 1 40 12
+FUNC 1ed70 3 0 INavAgentInterface::ShouldPostponePathUpdates() const
+1ed70 3 51 12
+FUNC 1ed80 3 0 INavAgentInterface::IsFollowingAPath() const
+1ed80 3 54 12
+FUNC 1ed90 3 0 INavAgentInterface::GetPathFollowingAgent() const
+1ed90 3 57 12
+FUNC 1eda0 f 0 INavAgentInterface::GetMoveGoalOffset(AActor*) const
+1eda0 4 64 12
+1eda4 6 65 12
+1edaa 3 65 12
+1edad 2 65 12
+FUNC 1edb0 9 0 INavAgentInterface::GetMoveGoalReachTest(AActor*, UE::Math::TVector<double> const&, UE::Math::TVector<double>&, float&, float&) const
+1edb0 9 71 12
+FUNC 1edc0 1b2 0 <name omitted>
+1edc0 1 0 23
+1edc1 7 0 23
+1edc8 3 0 23
+1edcb 2 0 23
+1edcd 7 0 23
+1edd4 3 0 23
+1edd7 6 0 23
+1eddd 7 0 23
+1ede4 3 0 23
+1ede7 6 0 23
+1eded 7 0 23
+1edf4 3 0 23
+1edf7 6 0 23
+1edfd 18 0 23
+1ee15 2c 0 23
+1ee41 3f 0 23
+1ee80 7 0 23
+1ee87 3 0 23
+1ee8a 6 0 23
+1ee90 3f 0 23
+1eecf 7 0 23
+1eed6 3 0 23
+1eed9 6 0 23
+1eedf 3f 0 23
+1ef1e 7 0 23
+1ef25 3 0 23
+1ef28 6 0 23
+1ef2e 44 0 23
+FUNC 1ef80 1 0 EmptyLinkFunctionForGeneratedCodeSagePlayerController()
+1ef80 1 10 25
+FUNC 1ef90 1 0 ASagePlayerController::StaticRegisterNativesASagePlayerController()
+1ef90 1 24 25
+FUNC 1efa0 c1 0 ASagePlayerController::GetPrivateStaticClass()
+1efa0 9 25 25
+1efa9 a 25 25
+1efb3 6 25 25
+1efb9 b 25 25
+1efc4 c 25 25
+1efd0 c 25 25
+1efdc c 25 25
+1efe8 68 25 25
+1f050 7 25 25
+1f057 a 25 25
+FUNC 1f070 c1 0 Z_Construct_UClass_ASagePlayerController_NoRegister()
+1f070 9 28 25
+1f079 a 28 25
+1f083 6 28 25
+1f089 b 28 25
+1f094 c 28 25
+1f0a0 c 28 25
+1f0ac c 28 25
+1f0b8 68 28 25
+1f120 7 28 25
+1f127 a 28 25
+FUNC 1f140 2b 0 Z_Construct_UClass_ASagePlayerController()
+1f140 1 93 25
+1f141 7 94 25
+1f148 3 94 25
+1f14b 2 94 25
+1f14d 2 98 25
+1f14f 13 96 25
+1f162 7 98 25
+1f169 2 98 25
+FUNC 1f170 c1 0 UClass* StaticClass<ASagePlayerController>()
+1f170 9 102 25
+1f179 a 102 25
+1f183 6 102 25
+1f189 b 102 25
+1f194 c 102 25
+1f1a0 c 102 25
+1f1ac c 102 25
+1f1b8 68 102 25
+1f220 7 102 25
+1f227 a 102 25
+FUNC 1f240 3e 0 ASagePlayerController::ASagePlayerController(FObjectInitializer const&)
+1f240 4 104 25
+1f244 5 104 25
+1f249 29 104 25
+1f272 a 104 25
+1f27c 2 104 25
+FUNC 1f280 3e 0 ASagePlayerController::ASagePlayerController(FVTableHelper&)
+1f280 4 105 25
+1f284 2e 105 25
+1f2b2 a 105 25
+1f2bc 2 105 25
+FUNC 1f2c0 5 0 ASagePlayerController::~ASagePlayerController()
+1f2c0 5 106 25
+FUNC 1f2d0 c 0 non-virtual thunk to ASagePlayerController::~ASagePlayerController()
+1f2d0 c 0 25
+FUNC 1f2e0 12 0 ASagePlayerController::~ASagePlayerController()
+1f2e0 4 106 25
+1f2e4 5 106 25
+1f2e9 3 106 25
+1f2ec 6 106 25
+FUNC 1f300 1c 0 non-virtual thunk to ASagePlayerController::~ASagePlayerController()
+1f300 b 0 25
+1f30b 8 0 25
+1f313 3 0 25
+1f316 6 0 25
+FUNC 1f320 b 0 void InternalConstructor<ASagePlayerController>(FObjectInitializer const&)
+1f320 3 3558 8
+1f323 3 3559 8
+1f326 5 3559 8
+FUNC 1f330 112 0 UObject* InternalVTableHelperCtorCaller<ASagePlayerController>(FVTableHelper&)
+1f330 10 3568 8
+1f340 8 3569 8
+1f348 a 3569 8
+1f352 6 3569 8
+1f358 b 3569 8
+1f363 c 3569 8
+1f36f c 3569 8
+1f37b c 3569 8
+1f387 69 3569 8
+1f3f0 7 3569 8
+1f3f7 2f 3569 8
+1f426 b 3569 8
+1f431 3 3569 8
+1f434 e 3569 8
+FUNC 1f450 5 0 APlayerController::StaticClass()
+1f450 5 271 17
+FUNC 1f460 c1 0 ASagePlayerController::StaticClass()
+1f460 9 21 32
+1f469 a 21 32
+1f473 6 21 32
+1f479 b 21 32
+1f484 c 21 32
+1f490 c 21 32
+1f49c c 21 32
+1f4a8 68 21 32
+1f510 7 21 32
+1f517 a 21 32
+FUNC 1f530 5 0 AController::GetActorBounds(bool, UE::Math::TVector<double>&, UE::Math::TVector<double>&, bool) const
+1f530 5 403 15
+FUNC 1f540 e 0 AController::GetVelocity() const
+1f540 4 403 15
+1f544 8 403 15
+1f54c 2 403 15
+FUNC 1f550 5 0 AController::TeleportTo(UE::Math::TVector<double> const&, UE::Math::TRotator<double> const&, bool, bool)
+1f550 5 403 15
+FUNC 1f560 1 0 AActor::TeleportSucceeded(bool)
+1f560 1 3158 13
+FUNC 1f570 4 0 AController::_getUObject() const
+1f570 3 42 15
+1f573 1 42 15
+FUNC 1f580 3 0 APlayerController::ShouldParticipateInSeamlessTravel() const
+1f580 3 2221 17
+FUNC 1f590 b 0 APlayerController::IsStreamingSourceEnabled() const
+1f590 a 798 17
+1f59a 1 798 17
+FUNC 1f5a0 11 0 APlayerController::StreamingSourceShouldActivate() const
+1f5a0 6 806 17
+1f5a6 a 806 17
+1f5b0 1 806 17
+FUNC 1f5c0 11 0 APlayerController::StreamingSourceShouldBlockOnSlowStreaming() const
+1f5c0 6 814 17
+1f5c6 a 814 17
+1f5d0 1 814 17
+FUNC 1f5e0 8 0 APlayerController::GetStreamingSourcePriority() const
+1f5e0 7 822 17
+1f5e7 1 822 17
+FUNC 1f5f0 4 0 APlayerController::GetStreamingSourceOwner() const
+1f5f0 3 848 17
+1f5f3 1 848 17
+FUNC 1f600 c 0 APlayerController::ShouldFlushKeysWhenViewportFocusChanges() const
+1f600 b 1754 17
+1f60b 1 1754 17
+FUNC 1f610 1 0 APlayerController::NotifyActorChannelFailure(UActorChannel*)
+1f610 1 1860 17
+FUNC 1f620 1 0 APlayerController::UpdateHiddenActors(UE::Math::TVector<double> const&)
+1f620 1 1866 17
+FUNC 1f630 1 0 APlayerController::UpdateHiddenComponents(UE::Math::TVector<double> const&, TSet<FPrimitiveComponentId, DefaultKeyFuncs<FPrimitiveComponentId, false>, FDefaultSetAllocator>&)
+1f630 1 1873 17
+FUNC 1f640 3 0 APlayerController::ShouldKeepCurrentPawnUponSpectating() const
+1f640 3 2150 17
+FUNC 1f650 8 0 non-virtual thunk to AController::_getUObject() const
+1f650 8 0 15
+FUNC 1f660 8 0 non-virtual thunk to APlayerController::GetStreamingSourceOwner() const
+1f660 8 0 17
+FUNC 1f670 1b2 0 <name omitted>
+1f670 1 0 25
+1f671 7 0 25
+1f678 3 0 25
+1f67b 2 0 25
+1f67d 7 0 25
+1f684 3 0 25
+1f687 6 0 25
+1f68d 7 0 25
+1f694 3 0 25
+1f697 6 0 25
+1f69d 7 0 25
+1f6a4 3 0 25
+1f6a7 6 0 25
+1f6ad 18 0 25
+1f6c5 2c 0 25
+1f6f1 3f 0 25
+1f730 7 0 25
+1f737 3 0 25
+1f73a 6 0 25
+1f740 3f 0 25
+1f77f 7 0 25
+1f786 3 0 25
+1f789 6 0 25
+1f78f 3f 0 25
+1f7ce 7 0 25
+1f7d5 3 0 25
+1f7d8 6 0 25
+1f7de 44 0 25
+FUNC 1f830 1 0 EmptyLinkFunctionForGeneratedCodeSagePlayerCharacter()
+1f830 1 10 24
+FUNC 1f840 1 0 ASagePlayerCharacter::StaticRegisterNativesASagePlayerCharacter()
+1f840 1 22 24
+FUNC 1f850 c1 0 ASagePlayerCharacter::GetPrivateStaticClass()
+1f850 9 23 24
+1f859 a 23 24
+1f863 6 23 24
+1f869 b 23 24
+1f874 c 23 24
+1f880 c 23 24
+1f88c c 23 24
+1f898 68 23 24
+1f900 7 23 24
+1f907 a 23 24
+FUNC 1f920 c1 0 Z_Construct_UClass_ASagePlayerCharacter_NoRegister()
+1f920 9 26 24
+1f929 a 26 24
+1f933 6 26 24
+1f939 b 26 24
+1f944 c 26 24
+1f950 c 26 24
+1f95c c 26 24
+1f968 68 26 24
+1f9d0 7 26 24
+1f9d7 a 26 24
+FUNC 1f9f0 2b 0 Z_Construct_UClass_ASagePlayerCharacter()
+1f9f0 1 67 24
+1f9f1 7 68 24
+1f9f8 3 68 24
+1f9fb 2 68 24
+1f9fd 2 72 24
+1f9ff 13 70 24
+1fa12 7 72 24
+1fa19 2 72 24
+FUNC 1fa20 c1 0 UClass* StaticClass<ASagePlayerCharacter>()
+1fa20 9 76 24
+1fa29 a 76 24
+1fa33 6 76 24
+1fa39 b 76 24
+1fa44 c 76 24
+1fa50 c 76 24
+1fa5c c 76 24
+1fa68 68 76 24
+1fad0 7 76 24
+1fad7 a 76 24
+FUNC 1faf0 26 0 ASagePlayerCharacter::ASagePlayerCharacter()
+1faf0 4 78 24
+1faf4 5 78 24
+1faf9 1b 78 24
+1fb14 2 78 24
+FUNC 1fb20 26 0 ASagePlayerCharacter::ASagePlayerCharacter(FVTableHelper&)
+1fb20 4 79 24
+1fb24 20 79 24
+1fb44 2 79 24
+FUNC 1fb50 5 0 ASagePlayerCharacter::~ASagePlayerCharacter()
+1fb50 5 80 24
+FUNC 1fb60 c 0 non-virtual thunk to ASagePlayerCharacter::~ASagePlayerCharacter()
+1fb60 c 0 24
+FUNC 1fb70 12 0 ASagePlayerCharacter::~ASagePlayerCharacter()
+1fb70 4 80 24
+1fb74 5 80 24
+1fb79 3 80 24
+1fb7c 6 80 24
+FUNC 1fb90 1c 0 non-virtual thunk to ASagePlayerCharacter::~ASagePlayerCharacter()
+1fb90 b 0 24
+1fb9b 8 0 24
+1fba3 3 0 24
+1fba6 6 0 24
+FUNC 1fbb0 8 0 void InternalConstructor<ASagePlayerCharacter>(FObjectInitializer const&)
+1fbb0 3 3559 8
+1fbb3 5 3559 8
+FUNC 1fbc0 112 0 UObject* InternalVTableHelperCtorCaller<ASagePlayerCharacter>(FVTableHelper&)
+1fbc0 10 3568 8
+1fbd0 8 3569 8
+1fbd8 a 3569 8
+1fbe2 6 3569 8
+1fbe8 b 3569 8
+1fbf3 c 3569 8
+1fbff c 3569 8
+1fc0b c 3569 8
+1fc17 69 3569 8
+1fc80 7 3569 8
+1fc87 2f 3569 8
+1fcb6 b 3569 8
+1fcc1 3 3569 8
+1fcc4 e 3569 8
+FUNC 1fce0 c1 0 ASagePlayerCharacter::StaticClass()
+1fce0 9 16 31
+1fce9 a 16 31
+1fcf3 6 16 31
+1fcf9 b 16 31
+1fd04 c 16 31
+1fd10 c 16 31
+1fd1c c 16 31
+1fd28 68 16 31
+1fd90 7 16 31
+1fd97 a 16 31
+FUNC 1fdb0 1b2 0 <name omitted>
+1fdb0 1 0 24
+1fdb1 7 0 24
+1fdb8 3 0 24
+1fdbb 2 0 24
+1fdbd 7 0 24
+1fdc4 3 0 24
+1fdc7 6 0 24
+1fdcd 7 0 24
+1fdd4 3 0 24
+1fdd7 6 0 24
+1fddd 7 0 24
+1fde4 3 0 24
+1fde7 6 0 24
+1fded 18 0 24
+1fe05 2c 0 24
+1fe31 3f 0 24
+1fe70 7 0 24
+1fe77 3 0 24
+1fe7a 6 0 24
+1fe80 3f 0 24
+1febf 7 0 24
+1fec6 3 0 24
+1fec9 6 0 24
+1fecf 3f 0 24
+1ff0e 7 0 24
+1ff15 3 0 24
+1ff18 6 0 24
+1ff1e 44 0 24
+FUNC 1ff70 20 0 InitializeModule
+1ff70 1 6 26
+1ff71 f 6 26
+1ff80 e 6 26
+1ff8e 2 6 26
+FUNC 1ff90 16 0 operator new(unsigned long)
+1ff90 16 6 26
+FUNC 1ffb0 1 0 IMPLEMENT_MODULE_Aura
+1ffb0 1 6 26
+FUNC 1ffc0 16 0 operator new[](unsigned long)
+1ffc0 16 6 26
+FUNC 1ffe0 21 0 operator new(unsigned long, std::nothrow_t const&)
+1ffe0 1 6 26
+1ffe1 16 6 26
+1fff7 a 6 26
+FUNC 20010 21 0 operator new[](unsigned long, std::nothrow_t const&)
+20010 1 6 26
+20011 16 6 26
+20027 a 6 26
+FUNC 20040 11 0 operator new(unsigned long, std::align_val_t)
+20040 11 6 26
+FUNC 20060 11 0 operator new[](unsigned long, std::align_val_t)
+20060 11 6 26
+FUNC 20080 1c 0 operator new(unsigned long, std::align_val_t, std::nothrow_t const&)
+20080 1 6 26
+20081 11 6 26
+20092 a 6 26
+FUNC 200a0 1c 0 operator new[](unsigned long, std::align_val_t, std::nothrow_t const&)
+200a0 1 6 26
+200a1 11 6 26
+200b2 a 6 26
+FUNC 200c0 10 0 operator delete(void*)
+200c0 1 6 26
+200c1 5 6 26
+200c6 a 6 26
+FUNC 200d0 10 0 operator delete[](void*)
+200d0 1 6 26
+200d1 5 6 26
+200d6 a 6 26
+FUNC 200e0 10 0 operator delete(void*, std::nothrow_t const&)
+200e0 1 6 26
+200e1 5 6 26
+200e6 a 6 26
+FUNC 200f0 10 0 operator delete[](void*, std::nothrow_t const&)
+200f0 1 6 26
+200f1 5 6 26
+200f6 a 6 26
+FUNC 20100 10 0 operator delete(void*, unsigned long)
+20100 1 6 26
+20101 5 6 26
+20106 a 6 26
+FUNC 20110 10 0 operator delete[](void*, unsigned long)
+20110 1 6 26
+20111 5 6 26
+20116 a 6 26
+FUNC 20120 10 0 operator delete(void*, unsigned long, std::nothrow_t const&)
+20120 1 6 26
+20121 5 6 26
+20126 a 6 26
+FUNC 20130 10 0 operator delete[](void*, unsigned long, std::nothrow_t const&)
+20130 1 6 26
+20131 5 6 26
+20136 a 6 26
+FUNC 20140 10 0 operator delete(void*, std::align_val_t)
+20140 1 6 26
+20141 5 6 26
+20146 a 6 26
+FUNC 20150 10 0 operator delete[](void*, std::align_val_t)
+20150 1 6 26
+20151 5 6 26
+20156 a 6 26
+FUNC 20160 10 0 operator delete(void*, std::align_val_t, std::nothrow_t const&)
+20160 1 6 26
+20161 5 6 26
+20166 a 6 26
+FUNC 20170 10 0 operator delete[](void*, std::align_val_t, std::nothrow_t const&)
+20170 1 6 26
+20171 5 6 26
+20176 a 6 26
+FUNC 20180 10 0 operator delete(void*, unsigned long, std::align_val_t)
+20180 1 6 26
+20181 5 6 26
+20186 a 6 26
+FUNC 20190 10 0 operator delete[](void*, unsigned long, std::align_val_t)
+20190 1 6 26
+20191 5 6 26
+20196 a 6 26
+FUNC 201a0 10 0 operator delete(void*, unsigned long, std::align_val_t, std::nothrow_t const&)
+201a0 1 6 26
+201a1 5 6 26
+201a6 a 6 26
+FUNC 201b0 10 0 operator delete[](void*, unsigned long, std::align_val_t, std::nothrow_t const&)
+201b0 1 6 26
+201b1 5 6 26
+201b6 a 6 26
+FUNC 201c0 11 0 StdMalloc(unsigned long, unsigned long)
+201c0 11 6 26
+FUNC 201e0 11 0 StdRealloc(void*, unsigned long, unsigned long)
+201e0 11 6 26
+FUNC 20200 5 0 StdFree(void*)
+20200 5 6 26
+FUNC 20210 1 0 IModuleInterface::~IModuleInterface()
+20210 1 23 4
+FUNC 20220 10 0 FDefaultGameModuleImpl::~FDefaultGameModuleImpl()
+20220 1 767 5
+20221 5 767 5
+20226 2 767 5
+20228 8 767 5
+FUNC 20230 1 0 IModuleInterface::StartupModule()
+20230 1 33 4
+FUNC 20240 1 0 IModuleInterface::PreUnloadCallback()
+20240 1 40 4
+FUNC 20250 1 0 IModuleInterface::PostLoadCallback()
+20250 1 47 4
+FUNC 20260 1 0 IModuleInterface::ShutdownModule()
+20260 1 57 4
+FUNC 20270 3 0 IModuleInterface::SupportsDynamicReloading()
+20270 3 66 4
+FUNC 20280 3 0 IModuleInterface::SupportsAutomaticShutdown()
+20280 3 76 4
+FUNC 20290 3 0 FDefaultGameModuleImpl::IsGameModule() const
+20290 3 777 5
+FUNC 202a0 193 0 <name omitted>
+202a0 1 0 26
+202a1 7 0 26
+202a8 3 0 26
+202ab 2 0 26
+202ad 7 0 26
+202b4 3 0 26
+202b7 6 0 26
+202bd 7 0 26
+202c4 3 0 26
+202c7 6 0 26
+202cd 7 0 26
+202d4 3 0 26
+202d7 6 0 26
+202dd 18 0 26
+202f5 7 0 26
+202fc 6 0 26
+20302 3f 0 26
+20341 7 0 26
+20348 3 0 26
+2034b 6 0 26
+20351 3f 0 26
+20390 7 0 26
+20397 3 0 26
+2039a 6 0 26
+203a0 3f 0 26
+203df 7 0 26
+203e6 3 0 26
+203e9 6 0 26
+203ef 44 0 26
+FUNC 20440 19b 0 ASagePlayerController::BeginPlay()
+20440 e 8 29
+2044e 5 9 29
+20453 8 11 29
+2045b 6 11 29
+20461 8 12 29
+20469 3 12 29
+2046c 6 12 29
+20472 3 12 29
+20475 5 12 29
+2047a 5 12 29
+2047f 3 12 29
+20482 2 12 29
+20484 7 12 29
+2048b 5 12 29
+20490 8 12 29
+20498 7 12 29
+2049f 5 12 29
+204a4 8 12 29
+204ac 3 12 29
+204af 2 12 29
+204b1 3 0 29
+204b4 7 14 29
+204bb 6 14 29
+204c1 5 14 29
+204c6 b 14 29
+204d1 d 14 29
+204de 7 14 29
+204e5 4 14 29
+204e9 9 14 29
+204f2 2 14 29
+204f4 2 14 29
+204f6 8 14 29
+204fe 5 14 29
+20503 16 14 29
+20519 7 19 29
+20520 7 20 29
+20527 10 21 29
+20537 8 21 29
+2053f 7 22 29
+20546 11 24 29
+20557 5 27 29
+2055c 5 27 29
+20561 3 27 29
+20564 2 27 29
+20566 4 27 29
+2056a 2 27 29
+2056c 8 27 29
+20574 4 27 29
+20578 2 27 29
+2057a 9 27 29
+20583 c 27 29
+2058f 21 11 29
+205b0 8 11 29
+205b8 6 11 29
+205be 8 27 29
+205c6 8 0 6
+205ce 5 27 29
+205d3 8 0 29
+FUNC 205e0 40 0 FInputModeGameAndUI::~FInputModeGameAndUI()
+205e0 1 186 17
+205e1 e 186 17
+205ef 4 186 17
+205f3 3 186 17
+205f6 2 186 17
+205f8 4 186 17
+205fc 2 186 17
+205fe 8 186 17
+20606 4 186 17
+2060a 2 186 17
+2060c 6 186 17
+20612 4 186 17
+20616 2 186 17
+20618 8 186 17
+FUNC 20620 c3 0 UEnhancedInputLocalPlayerSubsystem* FObjectSubsystemCollection<ULocalPlayerSubsystem>::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(TSubclassOf<UEnhancedInputLocalPlayerSubsystem> const&) const
+20620 10 154 18
+20630 3 158 18
+20633 3 158 18
+20636 6 158 18
+2063c 3 158 18
+2063f 6 158 18
+20645 3 158 18
+20648 b 158 18
+20653 d 158 18
+20660 3 158 18
+20663 b 158 18
+2066e 2 158 18
+20670 2 158 18
+20672 8 158 18
+2067a 5 158 18
+2067f b 158 18
+2068a 4 158 18
+2068e 3 158 18
+20691 6 158 18
+20697 3 158 18
+2069a b 158 18
+206a5 d 158 18
+206b2 3 158 18
+206b5 4 158 18
+206b9 2 158 18
+206bb 2 158 18
+206bd 8 158 18
+206c5 5 158 18
+206ca b 158 18
+206d5 e 158 18
+FUNC 206f0 187 0 <name omitted>
+206f0 1 0 29
+206f1 7 0 29
+206f8 3 0 29
+206fb 2 0 29
+206fd 7 0 29
+20704 3 0 29
+20707 6 0 29
+2070d 7 0 29
+20714 3 0 29
+20717 6 0 29
+2071d 7 0 29
+20724 3 0 29
+20727 6 0 29
+2072d 13 0 29
+20740 6 0 29
+20746 3f 0 29
+20785 7 0 29
+2078c 3 0 29
+2078f 6 0 29
+20795 3f 0 29
+207d4 7 0 29
+207db 3 0 29
+207de 6 0 29
+207e4 3f 0 29
+20823 7 0 29
+2082a 3 0 29
+2082d 6 0 29
+20833 44 0 29
+FUNC 20880 30f 0 ASageBaseCharacter::ASageBaseCharacter()
+20880 11 10 27
+20891 10 9 27
+208a1 1b 10 27
+208bc 14 9 27
+208d0 4 12 27
+208d4 7 13 27
+208db 6 13 27
+208e1 5 13 27
+208e6 8 13 27
+208ee 5 13 27
+208f3 7 13 27
+208fa 3 13 27
+208fd 7 13 27
+20904 b 13 27
+2090f 2 13 27
+20911 2 13 27
+20913 8 13 27
+2091b 13 13 27
+2092e 7 14 27
+20935 6 14 27
+2093b 5 14 27
+20940 8 14 27
+20948 5 14 27
+2094d 7 14 27
+20954 3 14 27
+20957 7 14 27
+2095e 4 14 27
+20962 2 14 27
+20964 2 14 27
+20966 8 14 27
+2096e 13 14 27
+20981 7 15 27
+20988 6 15 27
+2098e 5 15 27
+20993 8 15 27
+2099b 5 15 27
+209a0 7 15 27
+209a7 3 15 27
+209aa 7 15 27
+209b1 4 15 27
+209b5 2 15 27
+209b7 2 15 27
+209b9 8 15 27
+209c1 d 15 27
+209ce 7 16 27
+209d5 6 16 27
+209db 5 16 27
+209e0 8 16 27
+209e8 5 16 27
+209ed 7 16 27
+209f4 3 16 27
+209f7 7 16 27
+209fe 4 16 27
+20a02 2 16 27
+20a04 2 16 27
+20a06 8 16 27
+20a0e a 16 27
+20a18 16 17 27
+20a2e 9 17 27
+20a37 5 17 27
+20a3c 20 17 27
+20a5c 3 17 27
+20a5f 3 0 27
+20a62 2 17 27
+20a64 7 17 27
+20a6b 5 17 27
+20a70 8 17 27
+20a78 7 0 27
+20a7f 4 17 27
+20a83 4 18 27
+20a87 2 18 27
+20a89 5 18 27
+20a8e 8 18 27
+20a96 5 18 27
+20a9b 7 18 27
+20aa2 3 18 27
+20aa5 4 18 27
+20aa9 4 18 27
+20aad 2 18 27
+20aaf 2 18 27
+20ab1 8 18 27
+20ab9 7 18 27
+20ac0 6 18 27
+20ac6 5 18 27
+20acb 8 18 27
+20ad3 5 18 27
+20ad8 7 18 27
+20adf 3 18 27
+20ae2 7 18 27
+20ae9 4 18 27
+20aed 2 18 27
+20aef 2 18 27
+20af1 8 18 27
+20af9 16 18 27
+20b0f 14 18 27
+20b23 4 19 27
+20b27 6 19 27
+20b2d 5 19 27
+20b32 8 19 27
+20b3a 5 19 27
+20b3f 7 19 27
+20b46 3 19 27
+20b49 4 19 27
+20b4d 4 19 27
+20b51 2 19 27
+20b53 2 19 27
+20b55 8 19 27
+20b5d e 19 27
+20b6b f 20 27
+20b7a 5 0 27
+20b7f 8 20 27
+20b87 8 0 27
+FUNC 20b90 187 0 <name omitted>
+20b90 1 0 27
+20b91 7 0 27
+20b98 3 0 27
+20b9b 2 0 27
+20b9d 7 0 27
+20ba4 3 0 27
+20ba7 6 0 27
+20bad 7 0 27
+20bb4 3 0 27
+20bb7 6 0 27
+20bbd 7 0 27
+20bc4 3 0 27
+20bc7 6 0 27
+20bcd 13 0 27
+20be0 6 0 27
+20be6 3f 0 27
+20c25 7 0 27
+20c2c 3 0 27
+20c2f 6 0 27
+20c35 3f 0 27
+20c74 7 0 27
+20c7b 3 0 27
+20c7e 6 0 27
+20c84 3f 0 27
+20cc3 7 0 27
+20cca 3 0 27
+20ccd 6 0 27
+20cd3 44 0 27
+FUNC 20d20 187 0 <name omitted>
+20d20 1 0 28
+20d21 7 0 28
+20d28 3 0 28
+20d2b 2 0 28
+20d2d 7 0 28
+20d34 3 0 28
+20d37 6 0 28
+20d3d 7 0 28
+20d44 3 0 28
+20d47 6 0 28
+20d4d 7 0 28
+20d54 3 0 28
+20d57 6 0 28
+20d5d 13 0 28
+20d70 6 0 28
+20d76 3f 0 28
+20db5 7 0 28
+20dbc 3 0 28
+20dbf 6 0 28
+20dc5 3f 0 28
+20e04 7 0 28
+20e0b 3 0 28
+20e0e 6 0 28
+20e14 3f 0 28
+20e53 7 0 28
+20e5a 3 0 28
+20e5d 6 0 28
+20e63 44 0 28
+PUBLIC 1d0f0 0 deregister_tm_clones
+PUBLIC 1d11c 0 register_tm_clones
+PUBLIC 1d158 0 __do_global_dtors_aux
+PUBLIC 1d1c7 0 frame_dummy
+PUBLIC 1d1f0 0 EmptyLinkFunctionForGeneratedCodeAura_init()
+PUBLIC 1d200 0 Z_Construct_UPackage__Script_Aura()
+PUBLIC 1d230 0 __cxx_global_var_init.4
+PUBLIC 1d290 0 __cxx_global_var_init.5
+PUBLIC 1d2f0 0 __cxx_global_var_init.7
+PUBLIC 1d350 0 __cxx_global_var_init.9
+PUBLIC 1d3b0 0 __cxx_global_var_init.11
+PUBLIC 1d410 0 __cxx_global_var_init.13
+PUBLIC 1d470 0 __cxx_global_var_init.15
+PUBLIC 1d4d0 0 __cxx_global_var_init.17
+PUBLIC 1d510 0 __cxx_global_var_init.18
+PUBLIC 1d550 0 __cxx_global_var_init.19
+PUBLIC 1d590 0 __cxx_global_var_init.20
+PUBLIC 1d5d0 0 __cxx_global_var_init.21
+PUBLIC 1d610 0 __cxx_global_var_init.22
+PUBLIC 1d650 0 __cxx_global_var_init.23
+PUBLIC 1d690 0 __cxx_global_var_init.24
+PUBLIC 1d6d0 0 __cxx_global_var_init.25
+PUBLIC 1d710 0 __cxx_global_var_init.26
+PUBLIC 1d750 0 __cxx_global_var_init.27
+PUBLIC 1d790 0 __cxx_global_var_init.28
+PUBLIC 1d7d0 0 __cxx_global_var_init.29
+PUBLIC 1d810 0 __cxx_global_var_init.30
+PUBLIC 1d850 0 __cxx_global_var_init.31
+PUBLIC 1d890 0 __cxx_global_var_init.32
+PUBLIC 1d8d0 0 __cxx_global_var_init.33
+PUBLIC 1d910 0 __cxx_global_var_init.34
+PUBLIC 1d950 0 __cxx_global_var_init.35
+PUBLIC 1d990 0 __cxx_global_var_init.36
+PUBLIC 1d9d0 0 __cxx_global_var_init.37
+PUBLIC 1da10 0 __cxx_global_var_init.38
+PUBLIC 1da50 0 __cxx_global_var_init.39
+PUBLIC 1da90 0 __cxx_global_var_init.40
+PUBLIC 1dad0 0 __cxx_global_var_init.41
+PUBLIC 1db10 0 __cxx_global_var_init.42
+PUBLIC 1db50 0 __cxx_global_var_init.43
+PUBLIC 1db90 0 __cxx_global_var_init.44
+PUBLIC 1dbf0 0 __cxx_global_var_init.48
+PUBLIC 1dc10 0 __cxx_global_var_init.49
+PUBLIC 1dc60 0 __cxx_global_var_init.51
+PUBLIC 1dcb0 0 __cxx_global_var_init.56
+PUBLIC 1dd20 0 FCompositeBuffer::~FCompositeBuffer()
+PUBLIC 1ddf0 0 __clang_call_terminate
+PUBLIC 1de00 0 __cxx_global_var_init.57
+PUBLIC 1de70 0 FCompressedBuffer::~FCompressedBuffer()
+PUBLIC 1df40 0 __cxx_global_var_init.70
+PUBLIC 1df90 0 UE::FDerivedData::~FDerivedData()
+PUBLIC 1dfb0 0 _GLOBAL__sub_I_Aura.init.gen.cpp
+PUBLIC 1e170 0 EmptyLinkFunctionForGeneratedCodeSageBaseCharacter()
+PUBLIC 1e180 0 ASageBaseCharacter::StaticRegisterNativesASageBaseCharacter()
+PUBLIC 1e190 0 ASageBaseCharacter::GetPrivateStaticClass()
+PUBLIC 1e260 0 Z_Construct_UClass_ASageBaseCharacter_NoRegister()
+PUBLIC 1e330 0 Z_Construct_UClass_ASageBaseCharacter()
+PUBLIC 1e360 0 UClass* StaticClass<ASageBaseCharacter>()
+PUBLIC 1e430 0 ASageBaseCharacter::ASageBaseCharacter(FVTableHelper&)
+PUBLIC 1e470 0 ASageBaseCharacter::~ASageBaseCharacter()
+PUBLIC 1e480 0 non-virtual thunk to ASageBaseCharacter::~ASageBaseCharacter()
+PUBLIC 1e490 0 ASageBaseCharacter::~ASageBaseCharacter()
+PUBLIC 1e4b0 0 non-virtual thunk to ASageBaseCharacter::~ASageBaseCharacter()
+PUBLIC 1e4d0 0 void InternalConstructor<ASageBaseCharacter>(FObjectInitializer const&)
+PUBLIC 1e4e0 0 UObject* InternalVTableHelperCtorCaller<ASageBaseCharacter>(FVTableHelper&)
+PUBLIC 1e600 0 ACharacter::StaticClass()
+PUBLIC 1e610 0 UObject::StaticClass()
+PUBLIC 1e620 0 ASageBaseCharacter::StaticClass()
+PUBLIC 1e6f0 0 UObjectBase::RegisterDependencies()
+PUBLIC 1e700 0 UObjectBaseUtility::CanBeClusterRoot() const
+PUBLIC 1e710 0 UObjectBaseUtility::OnClusterMarkedAsPendingKill()
+PUBLIC 1e720 0 UObject::GetDetailedInfoInternal() const
+PUBLIC 1e740 0 UObject::PostCDOContruct()
+PUBLIC 1e750 0 UObject::PostCDOCompiled(FObjectPostCDOCompiledContext const&)
+PUBLIC 1e760 0 UObject::PostCDOCompiled()
+PUBLIC 1e770 0 UObject::LoadedFromAnotherClass(FName const&)
+PUBLIC 1e780 0 UObject::ResolveSubobject(char16_t const*, UObject*&, bool)
+PUBLIC 1e790 0 UObject::IsReadyForAsyncPostLoad() const
+PUBLIC 1e7a0 0 UObject::PostLinkerChange()
+PUBLIC 1e7b0 0 UObject::ShutdownAfterError()
+PUBLIC 1e7c0 0 UObject::PostInterpChange(FProperty*)
+PUBLIC 1e7d0 0 UObject::PreDuplicate(FObjectDuplicationParameters&)
+PUBLIC 1e7e0 0 UObject::PostDuplicate(bool)
+PUBLIC 1e7f0 0 UObject::PostDuplicate(EDuplicateMode::Type)
+PUBLIC 1e810 0 UObject::NeedsLoadForEditorGame() const
+PUBLIC 1e820 0 UObject::HasNonEditorOnlyReferences() const
+PUBLIC 1e830 0 UObject::IsPostLoadThreadSafe() const
+PUBLIC 1e840 0 UObject::GetPrestreamPackages(TArray<UObject*, TSizedDefaultAllocator<32> >&)
+PUBLIC 1e850 0 UObject::ExportCustomProperties(FOutputDevice&, unsigned int)
+PUBLIC 1e860 0 UObject::ImportCustomProperties(char16_t const*, FFeedbackContext*)
+PUBLIC 1e870 0 UObject::PostReloadConfig(FProperty*)
+PUBLIC 1e880 0 UObject::GetDesc()
+PUBLIC 1e8a0 0 UObject::MoveDataToSparseClassDataStruct() const
+PUBLIC 1e8b0 0 UObject::ConformSparseClassDataStruct(UScriptStruct*, void*) const
+PUBLIC 1e8c0 0 UObject::GetNativePropertyValues(TMap<FString, FString, FDefaultSetAllocator, TDefaultMapHashableKeyFuncs<FString, FString, false> >&, unsigned int) const
+PUBLIC 1e8d0 0 UObject::GetExporterName()
+PUBLIC 1e900 0 UObject::GetRestoreForUObjectOverwrite()
+PUBLIC 1e910 0 UObject::AreNativePropertiesIdenticalTo(UObject*) const
+PUBLIC 1e920 0 UObject::PostRepNotifies()
+PUBLIC 1e930 0 UObject::BeginCacheForCookedPlatformData(ITargetPlatform const*)
+PUBLIC 1e940 0 UObject::IsCachedCookedPlatformDataLoaded(ITargetPlatform const*)
+PUBLIC 1e950 0 UObject::WillNeverCacheCookedPlatformDataAgain()
+PUBLIC 1e960 0 UObject::ClearCachedCookedPlatformData(ITargetPlatform const*)
+PUBLIC 1e970 0 UObject::ClearAllCachedCookedPlatformData()
+PUBLIC 1e980 0 UObject::CookAdditionalFilesOverride(char16_t const*, ITargetPlatform const*, TFunctionRef<void (char16_t const*, void*, long long)>)
+PUBLIC 1e990 0 UObject::GetConfigOverridePlatform() const
+PUBLIC 1e9a0 0 UObject::OverrideConfigSection(FString&)
+PUBLIC 1e9b0 0 UObject::OverridePerObjectConfigSection(FString&)
+PUBLIC 1e9c0 0 UObject::ProcessConsoleExec(char16_t const*, FOutputDevice&, UObject*)
+PUBLIC 1e9d0 0 UObject::RegenerateClass(UClass*, UObject*)
+PUBLIC 1e9e0 0 UObject::MarkAsEditorOnlySubobject()
+PUBLIC 1e9f0 0 AActor::SetNetPushIdDynamic(unsigned long long)
+PUBLIC 1ea00 0 AActor::GetNetPushIdDynamic() const
+PUBLIC 1ea10 0 AActor::IsInEditingLevelInstance() const
+PUBLIC 1ea20 0 AActor::ShouldLevelKeepRefIfExternal() const
+PUBLIC 1ea30 0 AActor::GetRuntimeGrid() const
+PUBLIC 1ea40 0 AActor::IsLockLocation() const
+PUBLIC 1ea50 0 AActor::IsDataLayerTypeSupported(TSubclassOf<UDataLayerInstance>) const
+PUBLIC 1ea60 0 AActor::ActorTypeIsMainWorldOnly() const
+PUBLIC 1ea70 0 AActor::ActorTypeSupportsDataLayer() const
+PUBLIC 1ea80 0 AActor::ActorTypeSupportsExternalDataLayer() const
+PUBLIC 1ea90 0 AActor::IsRuntimeOnly() const
+PUBLIC 1eaa0 0 AActor::PopulatePIEDuplicationSeed(AActor::FDuplicationSeedInterface&)
+PUBLIC 1eab0 0 AActor::IsDefaultPreviewEnabled() const
+PUBLIC 1eac0 0 AActor::IsUserManaged() const
+PUBLIC 1ead0 0 AActor::CanEditChangeComponent(UActorComponent const*, FProperty const*) const
+PUBLIC 1eae0 0 AActor::GetDefaultAttachComponent() const
+PUBLIC 1eb40 0 AActor::IsLevelBoundsRelevant() const
+PUBLIC 1eb50 0 AActor::ShouldExport()
+PUBLIC 1eb60 0 AActor::ShouldImport(FString*, bool)
+PUBLIC 1eba0 0 AActor::ShouldImport(TStringView<char16_t>, bool)
+PUBLIC 1ebb0 0 AActor::EditorKeyPressed(FKey, EInputEvent)
+PUBLIC 1ebc0 0 AActor::OpenAssetEditor()
+PUBLIC 1ebd0 0 AActor::GetCustomIconName() const
+PUBLIC 1ebe0 0 AActor::OnActorChannelOpen(FInBunch&, UNetConnection*)
+PUBLIC 1ebf0 0 AActor::UseShortConnectTimeout() const
+PUBLIC 1ec00 0 AActor::OnSerializeNewActor(FOutBunch&)
+PUBLIC 1ec10 0 AActor::OnNetCleanup(UNetConnection*)
+PUBLIC 1ec20 0 AActor::AsyncPhysicsTickActor(float, float)
+PUBLIC 1ec30 0 AActor::SupportsSubRootSelection() const
+PUBLIC 1ec40 0 AActor::MarkComponentsAsPendingKill()
+PUBLIC 1ec60 0 AActor::OnConstruction(UE::Math::TTransform<double> const&)
+PUBLIC 1ec70 0 AActor::IsComponentRelevantForNavigation(UActorComponent*) const
+PUBLIC 1ec80 0 APawn::_getUObject() const
+PUBLIC 1ec90 0 ACharacter::GetMovementBase() const
+PUBLIC 1ecf0 0 APawn::OnPlayerStateChanged(APlayerState*, APlayerState*)
+PUBLIC 1ed00 0 ACharacter::GetBaseRotationOffset() const
+PUBLIC 1ed20 0 ACharacter::Falling()
+PUBLIC 1ed30 0 ACharacter::MoveBlockedBy(FHitResult const&)
+PUBLIC 1ed40 0 non-virtual thunk to APawn::_getUObject() const
+PUBLIC 1ed50 0 INavAgentInterface::GetMoveGoalOffset(AActor const*) const
+PUBLIC 1ed70 0 INavAgentInterface::ShouldPostponePathUpdates() const
+PUBLIC 1ed80 0 INavAgentInterface::IsFollowingAPath() const
+PUBLIC 1ed90 0 INavAgentInterface::GetPathFollowingAgent() const
+PUBLIC 1eda0 0 INavAgentInterface::GetMoveGoalOffset(AActor*) const
+PUBLIC 1edb0 0 INavAgentInterface::GetMoveGoalReachTest(AActor*, UE::Math::TVector<double> const&, UE::Math::TVector<double>&, float&, float&) const
+PUBLIC 1edc0 0 _GLOBAL__sub_I_SageBaseCharacter.gen.cpp
+PUBLIC 1ef80 0 EmptyLinkFunctionForGeneratedCodeSagePlayerController()
+PUBLIC 1ef90 0 ASagePlayerController::StaticRegisterNativesASagePlayerController()
+PUBLIC 1efa0 0 ASagePlayerController::GetPrivateStaticClass()
+PUBLIC 1f070 0 Z_Construct_UClass_ASagePlayerController_NoRegister()
+PUBLIC 1f140 0 Z_Construct_UClass_ASagePlayerController()
+PUBLIC 1f170 0 UClass* StaticClass<ASagePlayerController>()
+PUBLIC 1f240 0 ASagePlayerController::ASagePlayerController(FObjectInitializer const&)
+PUBLIC 1f280 0 ASagePlayerController::ASagePlayerController(FVTableHelper&)
+PUBLIC 1f2c0 0 ASagePlayerController::~ASagePlayerController()
+PUBLIC 1f2d0 0 non-virtual thunk to ASagePlayerController::~ASagePlayerController()
+PUBLIC 1f2e0 0 ASagePlayerController::~ASagePlayerController()
+PUBLIC 1f300 0 non-virtual thunk to ASagePlayerController::~ASagePlayerController()
+PUBLIC 1f320 0 void InternalConstructor<ASagePlayerController>(FObjectInitializer const&)
+PUBLIC 1f330 0 UObject* InternalVTableHelperCtorCaller<ASagePlayerController>(FVTableHelper&)
+PUBLIC 1f450 0 APlayerController::StaticClass()
+PUBLIC 1f460 0 ASagePlayerController::StaticClass()
+PUBLIC 1f530 0 AController::GetActorBounds(bool, UE::Math::TVector<double>&, UE::Math::TVector<double>&, bool) const
+PUBLIC 1f540 0 AController::GetVelocity() const
+PUBLIC 1f550 0 AController::TeleportTo(UE::Math::TVector<double> const&, UE::Math::TRotator<double> const&, bool, bool)
+PUBLIC 1f560 0 AActor::TeleportSucceeded(bool)
+PUBLIC 1f570 0 AController::_getUObject() const
+PUBLIC 1f580 0 APlayerController::ShouldParticipateInSeamlessTravel() const
+PUBLIC 1f590 0 APlayerController::IsStreamingSourceEnabled() const
+PUBLIC 1f5a0 0 APlayerController::StreamingSourceShouldActivate() const
+PUBLIC 1f5c0 0 APlayerController::StreamingSourceShouldBlockOnSlowStreaming() const
+PUBLIC 1f5e0 0 APlayerController::GetStreamingSourcePriority() const
+PUBLIC 1f5f0 0 APlayerController::GetStreamingSourceOwner() const
+PUBLIC 1f600 0 APlayerController::ShouldFlushKeysWhenViewportFocusChanges() const
+PUBLIC 1f610 0 APlayerController::NotifyActorChannelFailure(UActorChannel*)
+PUBLIC 1f620 0 APlayerController::UpdateHiddenActors(UE::Math::TVector<double> const&)
+PUBLIC 1f630 0 APlayerController::UpdateHiddenComponents(UE::Math::TVector<double> const&, TSet<FPrimitiveComponentId, DefaultKeyFuncs<FPrimitiveComponentId, false>, FDefaultSetAllocator>&)
+PUBLIC 1f640 0 APlayerController::ShouldKeepCurrentPawnUponSpectating() const
+PUBLIC 1f650 0 non-virtual thunk to AController::_getUObject() const
+PUBLIC 1f660 0 non-virtual thunk to APlayerController::GetStreamingSourceOwner() const
+PUBLIC 1f670 0 _GLOBAL__sub_I_SagePlayerController.gen.cpp
+PUBLIC 1f830 0 EmptyLinkFunctionForGeneratedCodeSagePlayerCharacter()
+PUBLIC 1f840 0 ASagePlayerCharacter::StaticRegisterNativesASagePlayerCharacter()
+PUBLIC 1f850 0 ASagePlayerCharacter::GetPrivateStaticClass()
+PUBLIC 1f920 0 Z_Construct_UClass_ASagePlayerCharacter_NoRegister()
+PUBLIC 1f9f0 0 Z_Construct_UClass_ASagePlayerCharacter()
+PUBLIC 1fa20 0 UClass* StaticClass<ASagePlayerCharacter>()
+PUBLIC 1faf0 0 ASagePlayerCharacter::ASagePlayerCharacter()
+PUBLIC 1fb20 0 ASagePlayerCharacter::ASagePlayerCharacter(FVTableHelper&)
+PUBLIC 1fb50 0 ASagePlayerCharacter::~ASagePlayerCharacter()
+PUBLIC 1fb60 0 non-virtual thunk to ASagePlayerCharacter::~ASagePlayerCharacter()
+PUBLIC 1fb70 0 ASagePlayerCharacter::~ASagePlayerCharacter()
+PUBLIC 1fb90 0 non-virtual thunk to ASagePlayerCharacter::~ASagePlayerCharacter()
+PUBLIC 1fbb0 0 void InternalConstructor<ASagePlayerCharacter>(FObjectInitializer const&)
+PUBLIC 1fbc0 0 UObject* InternalVTableHelperCtorCaller<ASagePlayerCharacter>(FVTableHelper&)
+PUBLIC 1fce0 0 ASagePlayerCharacter::StaticClass()
+PUBLIC 1fdb0 0 _GLOBAL__sub_I_SagePlayerCharacter.gen.cpp
+PUBLIC 1ff70 0 InitializeModule
+PUBLIC 1ff90 0 operator new(unsigned long)
+PUBLIC 1ffb0 0 IMPLEMENT_MODULE_Aura
+PUBLIC 1ffc0 0 operator new[](unsigned long)
+PUBLIC 1ffe0 0 operator new(unsigned long, std::nothrow_t const&)
+PUBLIC 20010 0 operator new[](unsigned long, std::nothrow_t const&)
+PUBLIC 20040 0 operator new(unsigned long, std::align_val_t)
+PUBLIC 20060 0 operator new[](unsigned long, std::align_val_t)
+PUBLIC 20080 0 operator new(unsigned long, std::align_val_t, std::nothrow_t const&)
+PUBLIC 200a0 0 operator new[](unsigned long, std::align_val_t, std::nothrow_t const&)
+PUBLIC 200c0 0 operator delete(void*)
+PUBLIC 200d0 0 operator delete[](void*)
+PUBLIC 200e0 0 operator delete(void*, std::nothrow_t const&)
+PUBLIC 200f0 0 operator delete[](void*, std::nothrow_t const&)
+PUBLIC 20100 0 operator delete(void*, unsigned long)
+PUBLIC 20110 0 operator delete[](void*, unsigned long)
+PUBLIC 20120 0 operator delete(void*, unsigned long, std::nothrow_t const&)
+PUBLIC 20130 0 operator delete[](void*, unsigned long, std::nothrow_t const&)
+PUBLIC 20140 0 operator delete(void*, std::align_val_t)
+PUBLIC 20150 0 operator delete[](void*, std::align_val_t)
+PUBLIC 20160 0 operator delete(void*, std::align_val_t, std::nothrow_t const&)
+PUBLIC 20170 0 operator delete[](void*, std::align_val_t, std::nothrow_t const&)
+PUBLIC 20180 0 operator delete(void*, unsigned long, std::align_val_t)
+PUBLIC 20190 0 operator delete[](void*, unsigned long, std::align_val_t)
+PUBLIC 201a0 0 operator delete(void*, unsigned long, std::align_val_t, std::nothrow_t const&)
+PUBLIC 201b0 0 operator delete[](void*, unsigned long, std::align_val_t, std::nothrow_t const&)
+PUBLIC 201c0 0 StdMalloc(unsigned long, unsigned long)
+PUBLIC 201e0 0 StdRealloc(void*, unsigned long, unsigned long)
+PUBLIC 20200 0 StdFree(void*)
+PUBLIC 20210 0 IModuleInterface::~IModuleInterface()
+PUBLIC 20220 0 FDefaultGameModuleImpl::~FDefaultGameModuleImpl()
+PUBLIC 20230 0 IModuleInterface::StartupModule()
+PUBLIC 20240 0 IModuleInterface::PreUnloadCallback()
+PUBLIC 20250 0 IModuleInterface::PostLoadCallback()
+PUBLIC 20260 0 IModuleInterface::ShutdownModule()
+PUBLIC 20270 0 IModuleInterface::SupportsDynamicReloading()
+PUBLIC 20280 0 IModuleInterface::SupportsAutomaticShutdown()
+PUBLIC 20290 0 FDefaultGameModuleImpl::IsGameModule() const
+PUBLIC 202a0 0 _GLOBAL__sub_I_Aura.cpp
+PUBLIC 20440 0 ASagePlayerController::BeginPlay()
+PUBLIC 205e0 0 FInputModeGameAndUI::~FInputModeGameAndUI()
+PUBLIC 20620 0 UEnhancedInputLocalPlayerSubsystem* FObjectSubsystemCollection<ULocalPlayerSubsystem>::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(TSubclassOf<UEnhancedInputLocalPlayerSubsystem> const&) const
+PUBLIC 206f0 0 _GLOBAL__sub_I_SagePlayerController.cpp
+PUBLIC 20880 0 ASageBaseCharacter::ASageBaseCharacter()
+PUBLIC 20b90 0 _GLOBAL__sub_I_SageBaseCharacter.cpp
+PUBLIC 20d20 0 _GLOBAL__sub_I_SagePlayerCharacter.cpp
+PUBLIC 20ea7 0 __do_global_ctors_aux
+PUBLIC 20ecc 0 _init
+PUBLIC 20ef0 0 _fini

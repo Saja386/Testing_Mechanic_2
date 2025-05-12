@@ -68,6 +68,6 @@
 -x c++
 -std=c++20
 -fpch-validate-input-files-content
-"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/SageBaseCharacter.cpp"
+"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/Characters/SageBaseCharacter.cpp"
 -MD -MF"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SageBaseCharacter.cpp.d"
 -o "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SageBaseCharacter.cpp.o"

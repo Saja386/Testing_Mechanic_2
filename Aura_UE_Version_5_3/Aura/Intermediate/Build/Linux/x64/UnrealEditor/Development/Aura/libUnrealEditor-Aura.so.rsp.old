@@ -1,8 +1,12 @@
 "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/Aura.init.gen.cpp.o"
 "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SageBaseCharacter.gen.cpp.o"
+"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SagePlayerController.gen.cpp.o"
+"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SagePlayerCharacter.gen.cpp.o"
 "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/Aura.cpp.o"
+"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SagePlayerController.cpp.o"
 "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SageBaseCharacter.cpp.o"
- -soname="libUnrealEditor-Aura-7093.so"
+"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SagePlayerCharacter.cpp.o"
+ -soname="libUnrealEditor-Aura.so"
  -rpath-link="/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Binaries/Linux"
  -L"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Binaries/Linux"
  --start-group

@@ -2498,7 +2498,7 @@
   /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/UnrealEditor/Inc/Aura/UHT/SageBaseCharacter.gen.cpp \
   /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/Definitions.Aura.h \
   Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
-  /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/SageBaseCharacter.h \
+  /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/Characters/SageBaseCharacter.h \
   Runtime/Core/Public/CoreMinimal.h \
   Runtime/Engine/Classes/GameFramework/Character.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \

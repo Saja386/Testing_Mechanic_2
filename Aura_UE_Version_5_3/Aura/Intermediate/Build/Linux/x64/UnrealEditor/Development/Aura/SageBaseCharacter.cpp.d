@@ -2495,9 +2495,9 @@
   /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/ThirdParty/Unix/LibCxx/include/c++/v1/__algorithm/shift_left.h \
   /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/ThirdParty/Unix/LibCxx/include/c++/v1/__algorithm/shift_right.h \
   /home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/ThirdParty/Unix/LibCxx/include/c++/v1/__algorithm/transform.h \
-  /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/SageBaseCharacter.cpp \
+  /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/Characters/SageBaseCharacter.cpp \
   /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/Definitions.Aura.h \
-  /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/SageBaseCharacter.h \
+  /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/Characters/SageBaseCharacter.h \
   Runtime/Core/Public/CoreMinimal.h \
   Runtime/Engine/Classes/GameFramework/Character.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
@@ -2523,4 +2523,9 @@
   Runtime/CoreUObject/Public/UObject/Class.h \
   ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/RootMotionSource.generated.h \
   ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/Character.generated.h \
-  /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/UnrealEditor/Inc/Aura/UHT/SageBaseCharacter.generated.h
+  /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/UnrealEditor/Inc/Aura/UHT/SageBaseCharacter.generated.h \
+  Runtime/Engine/Classes/Components/CapsuleComponent.h \
+  Runtime/Engine/Classes/Components/ShapeComponent.h \
+  Runtime/Engine/Classes/Components/PrimitiveComponent.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/ShapeComponent.generated.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/CapsuleComponent.generated.h
