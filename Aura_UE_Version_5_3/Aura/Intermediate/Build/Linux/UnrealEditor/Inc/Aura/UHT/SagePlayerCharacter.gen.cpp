@@ -75,7 +75,6 @@ template<> AURA_API UClass* StaticClass<ASagePlayerCharacter>()
 {
 	return ASagePlayerCharacter::StaticClass();
 }
-ASagePlayerCharacter::ASagePlayerCharacter() {}
 DEFINE_VTABLE_PTR_HELPER_CTOR(ASagePlayerCharacter);
 ASagePlayerCharacter::~ASagePlayerCharacter() {}
 // End Class ASagePlayerCharacter

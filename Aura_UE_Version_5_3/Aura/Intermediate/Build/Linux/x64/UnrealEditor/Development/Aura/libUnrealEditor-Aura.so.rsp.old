@@ -7,7 +7,9 @@
 "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SageBaseCharacter.cpp.o"
 "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SagePlayerCharacter.cpp.o"
  -soname="libUnrealEditor-Aura.so"
+ -rpath="${ORIGIN}/../../../../../../../Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Plugins/EnhancedInput/Binaries/Linux"
  -rpath-link="/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Binaries/Linux"
  -L"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Binaries/Linux"
+ -L"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Plugins/EnhancedInput/Binaries/Linux"
  --start-group
  --end-group

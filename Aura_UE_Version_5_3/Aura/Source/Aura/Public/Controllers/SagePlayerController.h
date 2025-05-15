@@ -9,6 +9,7 @@
 
 //Forward Declaration
 
+struct FInputActionValue;
 class UInputMappingContext ;
 class UInputAction ;
 
@@ -23,8 +24,9 @@ public:
 	
 
 protected:
+	// Functions To set up default values 
 	virtual void BeginPlay() override;
-
+	virtual void SetupInputComponent() override;
 
 	
 private:
@@ -34,4 +36,6 @@ private:
 
 	UPROPERTY(EditAnywhere , Category="Input")
 	TObjectPtr<UInputAction> MoveInputAction ;
+
+	void Move (const FInputActionValue& MoveInputActionValue) ; 
 };

@@ -14,5 +14,6 @@ UCLASS()
 class AURA_API ASagePlayerCharacter : public ASageBaseCharacter
 {
 	GENERATED_BODY()
-
+public:
+	ASagePlayerCharacter();
 };
