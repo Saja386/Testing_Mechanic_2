@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Aura.Build.cs",
+		"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/ThreepeatAnimTools.Build.cs",
 		"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura.Target.cs",
 		"/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/AuraEditor.Target.cs"
 	],

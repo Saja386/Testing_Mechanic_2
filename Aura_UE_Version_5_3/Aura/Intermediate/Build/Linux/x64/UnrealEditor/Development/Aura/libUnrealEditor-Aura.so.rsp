@@ -10,8 +10,12 @@
 "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/x64/UnrealEditor/Development/Aura/SageGameModeBase.cpp.o"
  -soname="libUnrealEditor-Aura.so"
  -rpath="${ORIGIN}/../../../../../../../Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Plugins/EnhancedInput/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../../../Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../../../Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Plugins/Runtime/CommonUI/Binaries/Linux"
  -rpath-link="/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Binaries/Linux"
  -L"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Binaries/Linux"
  -L"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Plugins/EnhancedInput/Binaries/Linux"
+ -L"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Linux"
+ -L"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Plugins/Runtime/CommonUI/Binaries/Linux"
  --start-group
  --end-group

@@ -1,0 +1,37 @@
+Generating report for minidump
+
+Application version 5.4.4.0
+ ... built from changelist 35576357
+
+OS version Linux 6.13.8-arch1-1 (network name: archlinux)
+Running 16 x86_64 processors (24 logical cores)
+Exception was "SIGSEGV: invalid attempt to write memory at address 0x0000000000000003"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-VulkanRHI.so!bool FVulkanDescriptorSetWriter::WriteBuffer<(VkDescriptorType)7>(unsigned int, VkBuffer_T*, unsigned int, unsigned long, unsigned long, unsigned int) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/VulkanRHI/Private/VulkanDescriptorSets.h:1014]
+libUnrealEditor-VulkanRHI.so!FVulkanCommonPipelineDescriptorState::SetUAV(FVulkanCmdBuffer*, bool, unsigned char, unsigned int, FVulkanUnorderedAccessView*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanPipelineState.cpp:798]
+libUnrealEditor-VulkanRHI.so!void UE::RHICore::RHISetShaderParametersShared<FVulkanCommandListContext, FRHIGraphicsShader>(FVulkanCommandListContext&, FRHIGraphicsShader*, TArrayView<unsigned char const, int>, TArrayView<FRHIShaderParameter const, int>, TArrayView<FRHIShaderParameterResource const, int>, TArrayView<FRHIShaderParameterResource const, int>, bool) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/RHICore/Internal/RHIShaderParametersShared.h:84]
+libUnrealEditor-VulkanRHI.so!FVulkanCommandListContext::RHISetShaderParameters(FRHIGraphicsShader*, TArrayView<unsigned char const, int>, TArrayView<FRHIShaderParameter const, int>, TArrayView<FRHIShaderParameterResource const, int>, TArrayView<FRHIShaderParameterResource const, int>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanCommands.cpp:415]
+libUnrealEditor-RHI.so!FRHICommandSetShaderParameters<FRHIGraphicsShader>::Execute(FRHICommandListBase&) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/RHI/Public/RHICommandListCommandExecutes.inl:134]
+libUnrealEditor-Engine.so!FRHICommand<FRHICommandSetShaderParameters<FRHIGraphicsShader>, FRHICommandSetShaderParametersString1466>::ExecuteAndDestruct(FRHICommandListBase&, FRHICommandListDebugContext&) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/RHI/Public/RHICommandList.h:1295]
+libUnrealEditor-RHI.so!FRHICommandListBase::Execute(TRHIPipelineArray<IRHIComputeContext*>&, FRHICommandListBase::FPersistentState::FGPUStats*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RHI/Private/RHICommandList.cpp:477]
+libUnrealEditor-RHI.so!TRHILambdaCommand<FRHICommandListImmediate, FRHICommandListImmediate::QueueAsyncCommandListSubmit(TArrayView<FRHICommandListImmediate::FQueuedCommandList, int>, FRHICommandListImmediate::ETranslatePriority, int)::$_4>::ExecuteAndDestruct(FRHICommandListBase&, FRHICommandListDebugContext&) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/RHI/Public/RHICommandList.h:471]
+libUnrealEditor-RHI.so!FRHICommandListBase::Execute(TRHIPipelineArray<IRHIComputeContext*>&, FRHICommandListBase::FPersistentState::FGPUStats*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RHI/Private/RHICommandList.cpp:477]
+libUnrealEditor-RHI.so!UE::Core::Private::Function::TFunctionRefCaller<FRHICommandListImmediate::ExecuteAndReset(bool)::$_0, void ()>::Call(void*) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/Function.h:405]
+libUnrealEditor-Core.so!TGraphTask<TFunctionGraphTaskImpl<void (), (ESubsequentsMode::Type)0> >::ExecuteTask(TArray<FBaseGraphTask*, TSizedDefaultAllocator<32> >&, ENamedThreads::Type, bool) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Async/TaskGraphInterfaces.h:1235]
+libUnrealEditor-Core.so!FNamedTaskThread::ProcessTasksNamedThread(int, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Async/TaskGraph.cpp:760]
+libUnrealEditor-Core.so!FNamedTaskThread::ProcessTasksUntilQuit(int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Async/TaskGraph.cpp:650]
+libUnrealEditor-RenderCore.so!FRHIThread::Run() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RenderCore/Private/RenderingThread.cpp:330]
+libUnrealEditor-Core.so!FRunnableThreadPThread::Run() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/HAL/PThreadRunnableThread.cpp:25]
+libUnrealEditor-Core.so!FRunnableThreadPThread::_ThreadProc(void*) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Private/HAL/PThreadRunnableThread.h:187]
+libc.so.6!UnknownFunction(0x95709)
+libc.so.6!UnknownFunction(0x119aab)
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

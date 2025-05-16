@@ -8378,6 +8378,46 @@
 			"Type": "SymbolFile"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/Binaries/Linux/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/Binaries/Linux/libUnrealEditor-CommonInput.debug",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/Binaries/Linux/libUnrealEditor-CommonInput.so",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/Binaries/Linux/libUnrealEditor-CommonInput.sym",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/Binaries/Linux/libUnrealEditor-CommonUI.debug",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/Binaries/Linux/libUnrealEditor-CommonUI.so",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/Binaries/Linux/libUnrealEditor-CommonUI.sym",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/Binaries/Linux/libUnrealEditor-CommonUIEditor.debug",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/Binaries/Linux/libUnrealEditor-CommonUIEditor.so",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/Binaries/Linux/libUnrealEditor-CommonUIEditor.sym",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/CustomMeshComponent/Binaries/Linux/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
@@ -9199,6 +9239,22 @@
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Linux/libUnrealEditor-Aura.sym",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ThreepeatAnimTools/Binaries/Linux/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ThreepeatAnimTools/Binaries/Linux/libUnrealEditor-ThreepeatAnimTools.debug",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ThreepeatAnimTools/Binaries/Linux/libUnrealEditor-ThreepeatAnimTools.so",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ThreepeatAnimTools/Binaries/Linux/libUnrealEditor-ThreepeatAnimTools.sym",
 			"Type": "SymbolFile"
 		}
 	],
@@ -25596,6 +25652,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/CommonUI/CommonUI.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin",
 			"Type": "UFS"
 		},
@@ -25698,6 +25758,10 @@
 		{
 			"Path": "$(ProjectDir)/Aura.uproject",
 			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ThreepeatAnimTools/ThreepeatAnimTools.uplugin",
+			"Type": "UFS"
 		}
 	],
 	"BuildPlugins": [
@@ -25743,6 +25807,7 @@
 		"ChunkDownloader",
 		"CmdLinkServer",
 		"CodeLiteSourceCodeAccess",
+		"CommonUI",
 		"ContentBrowserAssetDataSource",
 		"ContentBrowserClassDataSource",
 		"ContentBrowserFileDataSource",
@@ -25853,6 +25918,7 @@
 		"TcpMessaging",
 		"TemplateSequence",
 		"TextureFormatOodle",
+		"ThreepeatAnimTools",
 		"ToolPresets",
 		"TraceDataFilters",
 		"TraceUtilities",
