@@ -4,6 +4,9 @@
 #include "Controllers/SagePlayerController.h"
 #include "EnhancedInputSubsystems.h"
 #include "EnhancedInputComponent.h"
+#include "Characters/SagePlayerCharacter.h"
+#include "GAS/SageAbilitySystemComponent.h"
+#include "input/InputDataAsset.h"
 
 void ASagePlayerController::BeginPlay()
 {
@@ -32,7 +35,8 @@ void ASagePlayerController::SetupInputComponent()
 	Super::SetupInputComponent();
 	UEnhancedInputComponent* EnhancedInputComponent = CastChecked <UEnhancedInputComponent>(InputComponent);
 	//Bind Input Actions To Functions 
-	EnhancedInputComponent->BindAction(MoveInputAction, ETriggerEvent::Triggered , this , &ASagePlayerController::Move); 
+	EnhancedInputComponent->BindAction(MoveInputAction, ETriggerEvent::Triggered , this , &ASagePlayerController::Move);
+	EnhancedInputComponent->BindAction(DashInputAction , ETriggerEvent::Triggered , this , &ASagePlayerController::Dash);
 }
 
 void ASagePlayerController::Move(const FInputActionValue& MoveInputActionValue)
@@ -49,5 +53,15 @@ void ASagePlayerController::Move(const FInputActionValue& MoveInputActionValue)
 	{
 		ControlledPawn->AddMovementInput(ForwardDirection , InputVector.Y);
 		ControlledPawn->AddMovementInput(RightDirection , InputVector.X);
+	}
+}
+
+void ASagePlayerController::Dash(const FInputActionValue& DashInputActionValue)
+{
+	USageAbilitySystemComponent* ASC = Cast<USageAbilitySystemComponent>(Cast<ASageBaseCharacter>(GetPawn())->GetAbilitySystemComponent());
+	if(ASC)
+	{
+		FGameplayTag AbilityTag = SageInputDataAsset->FindABilityInputActionForTag(DashInputAction);
+		ASC->ActivateAbilityByTag(AbilityTag);
 	}
 }

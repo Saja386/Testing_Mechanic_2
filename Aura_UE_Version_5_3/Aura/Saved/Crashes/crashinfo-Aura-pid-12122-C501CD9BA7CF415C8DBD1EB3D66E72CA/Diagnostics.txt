@@ -1,0 +1,26 @@
+Generating report for minidump
+
+Application version 5.4.4.0
+ ... built from changelist 35576357
+
+OS version Linux 6.13.8-arch1-1 (network name: archlinux)
+Running 16 x86_64 processors (24 logical cores)
+Exception was "SIGSEGV: invalid attempt to read memory at address 0x0000000000000000"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-RD.so!std::__1::__function::__func<rd::util::shared_function<rd::MessageBroker::dispatch(rd::RdId, rd::Buffer) const::$_0>, std::__1::allocator<rd::util::shared_function<rd::MessageBroker::dispatch(rd::RdId, rd::Buffer) const::$_0> >, void ()>::operator()() [/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/ThirdParty/Unix/LibCxx/include/c++/v1/__functional/function.h:359]
+libUnrealEditor-RD.so!rd::SingleThreadSchedulerBase::PoolTask::operator()(int) const [/tmp/JetBrainsPerUserTemp-1000-1/UnrealLink/Cisewap/HostProject/Plugins/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/base/SingleThreadSchedulerBase.cpp:19]
+libUnrealEditor-RD.so!std::__1::packaged_task<void (int)>::operator()(int) [/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/ThirdParty/Unix/LibCxx/include/c++/v1/future:2068]
+libUnrealEditor-RD.so!ctpl::thread_pool::set_thread(int)::'lambda'()::operator()() const [/tmp/JetBrainsPerUserTemp-1000-1/UnrealLink/Cisewap/HostProject/Plugins/RiderLink/Source/RD/thirdparty/CTPL/include/ctpl_stl.h:218]
+libUnrealEditor-RD.so!std::__1::__thread_proxy<std::__1::tuple<std::__1::unique_ptr<std::__1::__thread_struct, std::__1::default_delete<std::__1::__thread_struct> >, (lambda at /tmp/JetBrainsPerUserTemp-1000-1/UnrealLink/Cisewap/HostProject/Plugins/RiderLink/Source/RD/thirdparty/CTPL/include/ctpl_stl.h:211:22)> > [/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source/ThirdParty/Unix/LibCxx/include/c++/v1/thread:295]
+libc.so.6!UnknownFunction(0x95709)
+libc.so.6!UnknownFunction(0x119aab)
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

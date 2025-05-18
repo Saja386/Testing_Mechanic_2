@@ -7,6 +7,7 @@
 #include "SagePlayerCharacter.generated.h"
 
 
+class UGameplayAbility;
 /**
  * 
  */
@@ -16,4 +17,8 @@ class AURA_API ASagePlayerCharacter : public ASageBaseCharacter
 	GENERATED_BODY()
 public:
 	ASagePlayerCharacter();
+	virtual void PossessedBy(AController* NewController) override;
+
+	UPROPERTY(EditDefaultsOnly , Category= "Defaults")
+	TArray<TSubclassOf<UGameplayAbility>> DefaultAbilities;
 };

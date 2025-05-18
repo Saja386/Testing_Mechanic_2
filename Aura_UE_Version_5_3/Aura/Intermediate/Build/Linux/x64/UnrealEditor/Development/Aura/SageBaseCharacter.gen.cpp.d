@@ -2524,4 +2524,7 @@
   Runtime/CoreUObject/Public/UObject/Class.h \
   ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/RootMotionSource.generated.h \
   ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/Character.generated.h \
+  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/AbilitySystemInterface.h \
+  Runtime/CoreUObject/Public/UObject/Interface.h \
+  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Linux/UnrealEditor/Inc/GameplayAbilities/UHT/AbilitySystemInterface.generated.h \
   /home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Intermediate/Build/Linux/UnrealEditor/Inc/Aura/UHT/SageBaseCharacter.generated.h

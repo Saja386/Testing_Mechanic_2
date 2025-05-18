@@ -1,5 +1,93 @@
 [
 	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/Private/CurveEditorAlignToLastKeyFilter.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/Private/CurveEditorMakeHoldFilter.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/Private/CurveEditorShiftKeysFilter.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/Private/ThreepeatAnimTools.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/Private/ThreepeatAnimToolsBPLibrary.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/Public/CurveEditorAlignToLastKeyFilter.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/Public/CurveEditorMakeHoldFilter.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/Public/CurveEditorShiftKeysFilter.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/Public/ThreepeatAnimTools.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/Public/ThreepeatAnimToolsBPLibrary.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Plugins/ThreepeatAnimTools/Source/ThreepeatAnimTools/ThreepeatAnimTools.Build.cs",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/ThreepeatAnimTools.23.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
 		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Aura.Build.cs",
 		"arguments": [
 			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
@@ -48,7 +136,63 @@
 		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
 	},
 	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/GAS/GamePlayAbility/SageGamePlayAbility.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/GAS/SageAbilitySystemComponent.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/GAS/SageAttributeSet.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
 		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/GameMode/SageGameModeBase.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/SageAssetManager.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/SageGamePlayTags.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/States/SagePlayerState.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/input/InputDataAsset.cpp",
 		"arguments": [
 			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
 			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
@@ -80,7 +224,63 @@
 		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
 	},
 	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/GAS/GamePlayAbility/SageGamePlayAbility.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/GAS/SageAbilitySystemComponent.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/GAS/SageAttributeSet.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
 		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/GameMode/SageGameModeBase.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/SageAssetManager.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/SageGamePlayTags.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/States/SagePlayerState.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/input/InputDataAsset.h",
 		"arguments": [
 			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
 			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"

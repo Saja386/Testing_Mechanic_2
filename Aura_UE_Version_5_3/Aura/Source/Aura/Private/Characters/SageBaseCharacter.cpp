@@ -3,6 +3,7 @@
 
 #include "Characters/SageBaseCharacter.h"
 #include "Components/CapsuleComponent.h"
+#include "GAS/SageAbilitySystemComponent.h"
 
 
 // Sets default values
@@ -17,4 +18,21 @@ ASageBaseCharacter::ASageBaseCharacter()
 	Weapon = CreateDefaultSubobject<USkeletalMeshComponent>("Weapon");
 	Weapon->SetupAttachment(GetMesh(), FName("hand_lWeaponSucket"));
 	Weapon->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+}
+
+UAbilitySystemComponent* ASageBaseCharacter::GetAbilitySystemComponent() const
+{
+	return AbilitySystenComp;
+}
+
+UAttributeSet* ASageBaseCharacter::GetAttributeSet() const
+{
+	return AttributeSet;
+}
+
+void ASageBaseCharacter::AddStartUpAbilities()
+{
+	USageAbilitySystemComponent* ASC = Cast<USageAbilitySystemComponent>(AbilitySystenComp);
+	ASC->AddCharacterAbilities(StartUpAbilities);
+	
 }

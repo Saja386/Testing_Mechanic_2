@@ -9,6 +9,7 @@
 
 //Forward Declaration
 
+class UInputDataAsset;
 struct FInputActionValue;
 class UInputMappingContext ;
 class UInputAction ;
@@ -37,5 +38,14 @@ private:
 	UPROPERTY(EditAnywhere , Category="Input")
 	TObjectPtr<UInputAction> MoveInputAction ;
 
-	void Move (const FInputActionValue& MoveInputActionValue) ; 
+	UPROPERTY(EditAnywhere , Category="Input")
+	TObjectPtr<UInputAction> DashInputAction ;
+
+	UPROPERTY(EditDefaultsOnly , Category="Input")
+	TObjectPtr<UInputDataAsset> SageInputDataAsset;
+	
+	//Movement Function 
+	void Move (const FInputActionValue& MoveInputActionValue);
+	void Dash (const FInputActionValue& DashInputActionValue);
+	
 };

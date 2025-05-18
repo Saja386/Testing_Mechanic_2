@@ -3,7 +3,9 @@
 
 #include "Characters/SagePlayerCharacter.h"
 
+#include "AbilitySystemComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
+#include "States/SagePlayerState.h"
 
 ASagePlayerCharacter::ASagePlayerCharacter()
 {
@@ -15,4 +17,17 @@ ASagePlayerCharacter::ASagePlayerCharacter()
 	bUseControllerRotationPitch = false;
 	bUseControllerRotationYaw = false;
 	bUseControllerRotationRoll = false;
+}
+
+void ASagePlayerCharacter::PossessedBy(AController* NewController)
+{
+	//Set GAS Attributes
+	Super::PossessedBy(NewController);
+	ASagePlayerState* PlayerState = GetPlayerState<ASagePlayerState>();
+	check(PlayerState);
+	PlayerState->GetAbilitySystemComponent()->InitAbilityActorInfo(PlayerState , this );
+	AbilitySystenComp = PlayerState->GetAbilitySystemComponent();
+	AttributeSet = PlayerState->GetAttributeSet();
+
+	AddStartUpAbilities();
 }
