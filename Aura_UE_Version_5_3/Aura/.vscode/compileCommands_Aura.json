@@ -136,6 +136,14 @@
 		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
 	},
 	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/GAS/DashTimerHandle.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
 		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/GAS/GamePlayAbility/SageGamePlayAbility.cpp",
 		"arguments": [
 			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
@@ -145,6 +153,14 @@
 	},
 	{
 		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/GAS/SageAbilitySystemComponent.cpp",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Private/GAS/SageAbilityTask.cpp",
 		"arguments": [
 			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
 			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
@@ -224,6 +240,14 @@
 		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
 	},
 	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/GAS/DashTimerHandle.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
 		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/GAS/GamePlayAbility/SageGamePlayAbility.h",
 		"arguments": [
 			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
@@ -233,6 +257,14 @@
 	},
 	{
 		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/GAS/SageAbilitySystemComponent.h",
+		"arguments": [
+			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Source"
+	},
+	{
+		"file": "/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/Source/Aura/Public/GAS/SageAbilityTask.h",
 		"arguments": [
 			"/home/sage/Apps/GameMaking/Linux_Unreal_Engine_5.4.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
 			"@/home/sage/Documents/GitHub/Testing_Mechanic_2/Aura_UE_Version_5_3/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"

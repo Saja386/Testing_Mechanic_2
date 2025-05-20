@@ -33,3 +33,15 @@ void USageAbilitySystemComponent::ActivateAbilityByTag(FGameplayTag& InTag)
 		}
 	}
 }
+
+void USageAbilitySystemComponent::EndAbilityByTag(FGameplayTag& InTag)
+{
+	if(!InTag.IsValid()){return;}
+	for(FGameplayAbilitySpec AbilitySpec : GetActivatableAbilities())
+	{
+		if(AbilitySpec.DynamicAbilityTags.HasTagExact(InTag))
+		{
+			AbilitySpecInputReleased(AbilitySpec);
+		}
+	}
+}

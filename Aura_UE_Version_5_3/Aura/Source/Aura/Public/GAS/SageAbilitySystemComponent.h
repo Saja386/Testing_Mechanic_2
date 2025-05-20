@@ -16,5 +16,6 @@ class AURA_API USageAbilitySystemComponent : public UAbilitySystemComponent
 public:
 	//Function to apply abilityes 
 	void AddCharacterAbilities (const TArray<TSubclassOf<UGameplayAbility>>& StartUpAbilities);
-	void ActivateAbilityByTag (FGameplayTag& InTag); 
+	void ActivateAbilityByTag (FGameplayTag& InTag);
+	void EndAbilityByTag (FGameplayTag& InTag);
 };

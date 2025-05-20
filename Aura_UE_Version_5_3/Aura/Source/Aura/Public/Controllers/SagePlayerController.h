@@ -47,5 +47,6 @@ private:
 	//Movement Function 
 	void Move (const FInputActionValue& MoveInputActionValue);
 	void Dash (const FInputActionValue& DashInputActionValue);
+	void DashEnd (const FInputActionValue& DashInputActionValue);
 	
 };
